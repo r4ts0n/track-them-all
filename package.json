@@ -667,7 +667,7 @@
     "string": "^3.3.1",
     "string-hash": "^1.1.0",
     "string-replace-webpack-plugin": "0.0.2",
-    "structor": "^0.1.2",
+    "structor": "^0.2.0",
     "style-loader": "^0.13.0",
     "superagent": "^1.4.0",
     "superagent-proxy": "^1.0.0",
