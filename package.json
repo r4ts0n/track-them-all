@@ -484,7 +484,7 @@
     "password-generator": "^2.0.2",
     "pem": "^1.8.1",
     "pg": "^4.4.3",
-    "pg-monitor": "^0.3.11",
+    "pg-monitor": "^0.4.0",
     "pg-promise": "^2.3.3",
     "phantomjs": "^1.9.18",
     "phonegap-facebook-plugin": "^0.12.0",
