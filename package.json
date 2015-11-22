@@ -236,7 +236,7 @@
     "franc": "^1.1.1",
     "fullpage.js": "^2.7.4",
     "gaia": "0.0.1",
-    "gatsby": "^0.6.2",
+    "gatsby": "^0.7.0",
     "generator-babel-boilerplate": "^5.1.1",
     "generator-m-ionic": "^1.4.1",
     "generator-react-webpack": "^3.0.1",
