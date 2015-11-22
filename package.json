@@ -736,7 +736,7 @@
     "web-react": "^1.1.0",
     "web-term": "^4.2.0",
     "webpack": "^1.12.8",
-    "webpack-bundle-size-analyzer": "^1.1.0",
+    "webpack-bundle-size-analyzer": "^1.2.0",
     "webpack-closure-compiler": "^1.1.1",
     "webpack-config": "^2.3.0",
     "webpack-config-plugin": "^0.3.1",
