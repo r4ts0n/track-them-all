@@ -592,7 +592,7 @@
     "react-spark-scroll": "^2.0.1",
     "react-star-rating": "^1.4.2",
     "react-static-container": "^1.0.0",
-    "react-stickynode": "^1.0.2",
+    "react-stickynode": "^1.0.3",
     "react-stub-context": "^0.4.0",
     "react-tap-event-plugin": "^0.2.1",
     "react-tappable": "^0.7.1",
