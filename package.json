@@ -557,7 +557,7 @@
     "react-faux-dom": "^2.1.1",
     "react-ghost-i18n": "^1.0.0",
     "react-google-ad": "^1.0.1",
-    "react-google-publisher-tag": "^0.1.11",
+    "react-google-publisher-tag": "^0.1.13",
     "react-grid-layout": "^0.8.5",
     "react-headroom": "^1.6.2",
     "react-heatpack": "^3.0.1",
