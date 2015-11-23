@@ -157,7 +157,7 @@
     "cordova-plugin-x-toast": "^2.2.1",
     "cordova-plugin-zip": "^3.0.0",
     "cordova-sms-plugin": "^0.1.6",
-    "cordova-sqlite-storage": "^0.7.13",
+    "cordova-sqlite-storage": "^0.7.14",
     "cordova-volume-control": "^0.1.10",
     "cropper": "^2.0.1",
     "cropperjs": "^0.3.2",
