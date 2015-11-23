@@ -231,7 +231,7 @@
     "fecha": "^1.1.0",
     "fflip": "^2.1.0",
     "fg-loadcss": "^0.2.4",
-    "file-loader": "^0.8.4",
+    "file-loader": "^0.8.5",
     "finderjs": "^1.0.0",
     "fixed-data-table": "^0.6.0",
     "fixmyjs": "^1.0.3",
