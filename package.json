@@ -140,7 +140,7 @@
     "cordova-plugin-inappbrowser": "^1.0.1",
     "cordova-plugin-indexeddb-async": "^2.2.1",
     "cordova-plugin-local-notifications": "^1.0.0",
-    "cordova-plugin-media-capture": "^1.0.1",
+    "cordova-plugin-media-capture": "^1.1.0",
     "cordova-plugin-network-information": "^1.0.1",
     "cordova-plugin-notificare-push": "^1.6.1",
     "cordova-plugin-screen-orientation": "^1.4.0",
