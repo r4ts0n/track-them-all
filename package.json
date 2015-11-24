@@ -577,7 +577,7 @@
     "react-lazy-load": "^2.0.0",
     "react-list": "^0.7.6",
     "react-look": "^0.6.0",
-    "react-map-gl": "^0.5.0",
+    "react-map-gl": "^0.5.1",
     "react-material": "^0.3.2",
     "react-material-design-lite": "^0.5.0",
     "react-materialize": "^0.14.0-beta3",
