@@ -128,7 +128,7 @@
     "cordova-plugin-crosswalk-webview": "^1.4.0",
     "cordova-plugin-customurlscheme": "^4.0.0",
     "cordova-plugin-datepicker": "^0.9.3",
-    "cordova-plugin-device": "^1.0.1",
+    "cordova-plugin-device": "^1.1.0",
     "cordova-plugin-device-motion": "^1.1.1",
     "cordova-plugin-dialogs": "^1.1.1",
     "cordova-plugin-fetch": "^1.0.0",
