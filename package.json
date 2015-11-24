@@ -166,7 +166,7 @@
     "crossroads": "^0.12.2",
     "css-loader": "^0.23.0",
     "css-modules-loader-core": "^1.0.0",
-    "css-modules-require-hook": "^2.0.2",
+    "css-modules-require-hook": "^2.0.3",
     "cssnext": "^1.8.4",
     "dataloader": "^1.0.0",
     "datamask": "^0.1.1",
