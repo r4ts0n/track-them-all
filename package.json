@@ -254,7 +254,7 @@
     "gaze": "^0.5.2",
     "generator-babel-boilerplate": "^5.1.1",
     "generator-m-ionic": "^1.4.1",
-    "generator-react-webpack": "^3.1.0",
+    "generator-react-webpack": "^3.1.1",
     "geolib": "^2.0.18",
     "geyser": "0.0.2",
     "gitbook": "^2.5.2",
