@@ -196,7 +196,7 @@
     "ent": "^2.2.0",
     "entities": "^1.1.1",
     "eq.js": "^1.7.0",
-    "escodegen": "^1.7.0",
+    "escodegen": "^1.7.1",
     "esformatter": "^0.8.1",
     "esformatter-asi": "^0.5.2",
     "esformatter-braces": "^1.2.1",
