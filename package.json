@@ -328,7 +328,7 @@
     "isomorphic-ensure": "^1.0.1",
     "isomorphic-fetch": "^2.2.0",
     "isomorphic-relay": "^0.3.1",
-    "isomorphic-relay-router": "^0.3.0",
+    "isomorphic-relay-router": "^0.3.1",
     "jake": "^8.0.12",
     "jasmine-immutable-matchers": "^0.1.1",
     "jed": "^1.1.0",
