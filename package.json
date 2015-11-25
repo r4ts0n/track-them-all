@@ -744,7 +744,7 @@
     "transceiver": "^0.3.4",
     "treo": "^0.6.0-rc2",
     "trevor": "^1.1.4",
-    "ts-loader": "^0.7.1",
+    "ts-loader": "^0.7.2",
     "typescript": "^1.8.0-dev.20151125",
     "ui-toolkit": "0.0.54",
     "uikit": "^2.24.0",
