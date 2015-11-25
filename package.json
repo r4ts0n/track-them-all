@@ -472,7 +472,7 @@
     "nedb": "^1.4.0",
     "nightmare": "^2.0.8",
     "njstrace": "0.0.2",
-    "nock": "^3.3.1",
+    "nock": "^3.3.2",
     "node-config": "0.0.2",
     "node-config-loader": "^1.1.1",
     "node-dev": "^2.7.1",
