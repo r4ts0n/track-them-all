@@ -671,7 +671,7 @@
     "request-promise": "^1.0.2",
     "reselect": "^2.0.1",
     "respimage": "^1.4.2",
-    "rest-facade": "^1.2.4",
+    "rest-facade": "^1.2.5",
     "rethinkdb": "^2.2.0",
     "rethinkdbdash": "^2.2.2",
     "reveal.js": "^3.2.0",
