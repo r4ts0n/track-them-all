@@ -113,7 +113,7 @@
     "cordova-config-utils": "^2.1.0",
     "cordova-custom-config": "^1.1.8",
     "cordova-plugin-app-preferences": "^0.7.4",
-    "cordova-plugin-app-version": "^0.1.7",
+    "cordova-plugin-app-version": "^0.1.8",
     "cordova-plugin-appinfo": "^2.0.2",
     "cordova-plugin-autostart": "^2.0.0",
     "cordova-plugin-background-app": "^2.0.2",
