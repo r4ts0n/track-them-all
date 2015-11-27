@@ -62,7 +62,7 @@
     "blocked": "^1.1.0",
     "bloody-strip-proptypes": "^1.0.0",
     "bookshelf": "^0.9.1",
-    "bookshelf-modelbase": "^2.6.3",
+    "bookshelf-modelbase": "^2.6.6",
     "bootstrap": "^3.3.6",
     "bootstrap-material-design": "^0.3.0",
     "bootstrap-timepicker": "^0.5.1",
