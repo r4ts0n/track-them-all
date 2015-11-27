@@ -38,7 +38,7 @@
     "babel-loader": "^6.2.0",
     "babel-plugin-closure-elimination": "0.0.2",
     "babel-plugin-espower": "^2.0.0",
-    "babel-plugin-extensible-destructuring": "^1.0.2",
+    "babel-plugin-extensible-destructuring": "^2.0.0",
     "babel-plugin-feature-flags": "^0.2.0",
     "babel-plugin-filter-imports": "^0.2.0",
     "babel-plugin-module-alias": "^1.0.0",
