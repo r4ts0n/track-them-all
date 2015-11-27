@@ -420,7 +420,7 @@
     "locallyjs": "^0.3.2",
     "lodash": "^3.10.1",
     "lory.js": "^1.6.7",
-    "lru-cache": "^2.7.2",
+    "lru-cache": "^3.1.0",
     "lunr": "^0.6.0",
     "lzma": "^2.2.3",
     "maildev": "^0.12.1",
