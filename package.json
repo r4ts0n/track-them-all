@@ -573,7 +573,7 @@
     "react-google-ad": "^1.0.1",
     "react-google-publisher-tag": "^0.1.13",
     "react-grid-layout": "^0.8.5",
-    "react-headroom": "^1.6.2",
+    "react-headroom": "^1.7.2",
     "react-heatpack": "^3.0.1",
     "react-helmet": "^2.2.0",
     "react-hot-loader": "^2.0.0-alpha-4",
