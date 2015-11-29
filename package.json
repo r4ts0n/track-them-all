@@ -623,7 +623,7 @@
     "react-tappable": "^0.7.1",
     "react-three-renderer": "0.0.12-alpha",
     "react-time": "^4.0.0",
-    "react-toolbox": "^0.12.13",
+    "react-toolbox": "^0.13.0",
     "react-track": "^0.2.1",
     "react-transform-catch-errors": "^1.0.0",
     "react-transform-hmr": "^1.0.1",
