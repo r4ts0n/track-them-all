@@ -547,7 +547,7 @@
     "ramjet": "^0.4.7",
     "rc": "^1.1.5",
     "re-notif": "^1.0.2",
-    "re-require-module": "^1.0.0",
+    "re-require-module": "^1.0.1",
     "react": "^0.14.3",
     "react-a11y": "^0.2.8",
     "react-ab": "^0.4.4",
