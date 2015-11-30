@@ -151,7 +151,7 @@
     "cordova-plugin-screen-orientation": "^1.4.0",
     "cordova-plugin-service-worker": "^1.0.1",
     "cordova-plugin-shake": "^0.5.3",
-    "cordova-plugin-shared": "^0.8.5",
+    "cordova-plugin-shared": "^0.8.6",
     "cordova-plugin-sim": "^1.1.0",
     "cordova-plugin-socialsharing": "^4.3.81",
     "cordova-plugin-statusbar": "^2.0.0",
