@@ -266,7 +266,7 @@
     "geolib": "^2.0.18",
     "geyser": "0.0.2",
     "gitbook": "^2.6.2",
-    "gitbook-cli": "^1.0.0",
+    "gitbook-cli": "^1.0.1",
     "gl-react": "^1.2.5",
     "gm": "^1.21.1",
     "gmaps": "^0.4.21",
