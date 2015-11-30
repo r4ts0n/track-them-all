@@ -159,7 +159,7 @@
     "cordova-plugin-video-editor": "^1.0.1",
     "cordova-plugin-wkwebview": "^0.6.7",
     "cordova-plugin-x-socialsharing": "^5.0.7",
-    "cordova-plugin-x-toast": "^2.2.1",
+    "cordova-plugin-x-toast": "^2.2.2",
     "cordova-plugin-zip": "^3.0.0",
     "cordova-sms-plugin": "^0.1.6",
     "cordova-sqlite-storage": "^0.7.14",
