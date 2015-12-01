@@ -208,7 +208,7 @@
     "esformatter-braces": "^1.2.1",
     "esformatter-collapse-objects": "^0.5.1",
     "esformatter-quote-props": "^1.0.2",
-    "eslint": "^1.10.1",
+    "eslint": "^1.10.3",
     "eslint-config-airbnb": "1.0.0",
     "eslint-config-standard": "^4.4.0",
     "eslint-loader": "^1.1.1",
