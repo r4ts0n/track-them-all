@@ -233,7 +233,7 @@
     "falcor": "^0.1.14",
     "falcor-http-datasource": "^0.1.2",
     "falcor-koa": "0.1.0-alpha",
-    "falcor-router": "^0.2.11",
+    "falcor-router": "^0.2.12",
     "falcor-shapes": "^1.0.2",
     "fecha": "^1.1.0",
     "fflip": "^2.1.0",
