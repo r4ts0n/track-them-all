@@ -341,7 +341,7 @@
     "jasmine-immutable-matchers": "^0.1.1",
     "jed": "^1.1.0",
     "jest": "^0.1.40",
-    "jimp": "^0.2.19",
+    "jimp": "^0.2.20",
     "join-js": "^0.4.0",
     "jose-jwe-jws": "0.0.3",
     "jquery": "^3.0.0-alpha1",
