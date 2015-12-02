@@ -267,7 +267,7 @@
     "geyser": "0.0.2",
     "gitbook": "^2.6.2",
     "gitbook-cli": "^1.0.0",
-    "gl-react": "^1.2.5",
+    "gl-react": "^2.0.1",
     "gm": "^1.21.1",
     "gmaps": "^0.4.21",
     "graceful-fs": "^4.1.2",
