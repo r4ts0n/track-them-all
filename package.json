@@ -487,7 +487,7 @@
     "npm-check": "^4.1.3",
     "npm-check-webpack-plugin": "^1.1.0",
     "npm-fast-install": "^0.1.0",
-    "npm-run-all": "^1.3.2",
+    "npm-run-all": "^1.3.3",
     "npmrc": "^1.1.1",
     "nsp": "^2.0.2",
     "nunjucks": "^2.2.0",
