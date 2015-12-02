@@ -350,7 +350,7 @@
     "js-beautify": "^1.5.10",
     "jscodeshift": "^0.3.9",
     "jsdoc": "^3.4.0",
-    "jsdom": "^7.0.2",
+    "jsdom": "^7.1.1",
     "jsfmt": "^0.5.2",
     "json-editor": "^0.7.23",
     "jsondiffpatch": "^0.1.37",
