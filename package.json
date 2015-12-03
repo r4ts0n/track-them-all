@@ -109,7 +109,7 @@
     "concrete": "0.0.3",
     "config": "^1.17.1",
     "confit": "^2.0.3",
-    "connect-alt": "^1.0.6",
+    "connect-alt": "^1.0.7",
     "converjon": "^2.7.1",
     "convict": "^1.0.1",
     "cookies-js": "^1.2.2",
