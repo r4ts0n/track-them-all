@@ -2,7 +2,7 @@
   "private": true,
   "dependencies": {
     "Haraka": "^2.7.0",
-    "acacia": "^0.3.0",
+    "acacia": "^0.4.0",
     "acquit": "^0.4.0",
     "admin-lte": "^2.3.2",
     "adrenaline": "^0.11.1",
