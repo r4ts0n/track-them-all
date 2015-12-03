@@ -521,7 +521,7 @@
     "plato": "^1.5.0",
     "poet": "^2.0.1",
     "polythene": "^0.1.30",
-    "popmotion": "^4.0.0",
+    "popmotion": "^4.2.1",
     "postcss": "^5.0.12",
     "postcss-loader": "^0.8.0",
     "postcss-modules-extract-imports": "1.0.0",
