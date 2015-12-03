@@ -628,7 +628,7 @@
     "react-transform-catch-errors": "^1.0.0",
     "react-transform-hmr": "^1.0.1",
     "react-translate-component": "^0.10.0",
-    "react-treebeard": "^1.0.10",
+    "react-treebeard": "^1.0.14",
     "react-typeahead": "^1.1.5",
     "react-validators": "^0.1.2",
     "react-vendor-prefixes": "0.0.2",
