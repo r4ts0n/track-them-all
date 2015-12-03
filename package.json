@@ -501,7 +501,7 @@
     "orm": "^2.1.27",
     "pako": "^0.2.8",
     "paper": "^0.9.25",
-    "passport-custom": "^1.0.1",
+    "passport-custom": "^1.0.5",
     "passport-facebook": "^2.0.0",
     "passport-google-auth": "^1.0.0",
     "password-generator": "^2.0.2",
