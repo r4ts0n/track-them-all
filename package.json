@@ -673,7 +673,7 @@
     "respimage": "^1.4.2",
     "rest-facade": "^1.2.4",
     "rethinkdb": "^2.2.0",
-    "rethinkdbdash": "^2.2.2",
+    "rethinkdbdash": "^2.2.6",
     "reveal.js": "^3.2.0",
     "revenant": "^0.3.2",
     "rimg": "^1.0.0",
