@@ -632,7 +632,7 @@
     "react-plupload": "0.0.13",
     "react-pure-render": "^1.0.2",
     "react-redux": "^4.0.0",
-    "react-relay": "^0.5.0",
+    "react-relay": "^0.6.0",
     "react-remarkable": "^1.1.1",
     "react-render-visualizer": "^0.2.2",
     "react-render-visualizer-decorator": "^0.2.2",
