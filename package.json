@@ -589,7 +589,7 @@
     "react-desktop": "^0.1.48",
     "react-dom": "^0.14.3",
     "react-dom-stream": "^0.3.0",
-    "react-essence": "0.1.6",
+    "react-essence": "0.1.8",
     "react-experiments": "^3.0.1",
     "react-externs": "^0.13.5",
     "react-faux-dom": "^2.1.1",
