@@ -804,7 +804,7 @@
     "validator": "^4.3.0",
     "vega": "^2.4.1",
     "verror": "^1.6.0",
-    "victory": "0.0.2",
+    "victory": "0.0.3",
     "vinyl-named": "^1.1.0",
     "virtual-dom": "^2.1.1",
     "vlq": "^0.2.1",
