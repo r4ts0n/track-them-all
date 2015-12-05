@@ -176,7 +176,7 @@
     "cordova-sms-plugin": "^0.1.6",
     "cordova-sqlite-storage": "^0.7.14",
     "cordova-volume-control": "^0.1.10",
-    "cosmos-js": "^0.7.0",
+    "cosmos-js": "^0.7.1",
     "creditcard": "^0.1.2",
     "cropper": "^2.1.0",
     "cropperjs": "^0.4.0",
