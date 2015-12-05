@@ -645,7 +645,7 @@
     "react-relay": "^0.6.0",
     "react-remarkable": "^1.1.1",
     "react-render-visualizer": "^0.2.2",
-    "react-render-visualizer-decorator": "^0.2.2",
+    "react-render-visualizer-decorator": "^0.3.0",
     "react-resizable": "^1.0.1",
     "react-resolver": "^2.0.5",
     "react-router": "^1.0.0",
