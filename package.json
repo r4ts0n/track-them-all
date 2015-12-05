@@ -633,7 +633,7 @@
     "react-mixin": "^3.0.3",
     "react-motion": "^0.3.1",
     "react-native-ab": "^0.1.0",
-    "react-native-material-kit": "^0.2.2",
+    "react-native-material-kit": "^0.2.4",
     "react-native-webpack-server": "^0.8.2",
     "react-notification": "^3.0.3",
     "react-notification-system": "^0.2.6",
