@@ -96,7 +96,7 @@
     "circus": "^4.2.0",
     "clappr": "^0.2.23",
     "class-acts": "^1.0.3",
-    "classeur": "^0.15.0",
+    "classeur": "^0.16.0",
     "classnames": "^2.2.1",
     "cld": "^2.4.5",
     "clean-webpack-plugin": "^0.1.4",
