@@ -731,7 +731,7 @@
     "rollup": "^0.21.1",
     "rollup-babel": "^0.6.3",
     "router5": "^1.2.0",
-    "rune.js": "^0.2.12",
+    "rune.js": "^0.2.13",
     "rwb": "0.0.16",
     "sane": "^1.3.0",
     "sanitize-html": "^1.11.2",
