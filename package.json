@@ -351,7 +351,7 @@
     "iridium": "^6.4.1",
     "is": "^3.1.0",
     "is-my-json-valid": "^2.12.3",
-    "iso": "^4.2.0",
+    "iso": "^5.0.0",
     "isomorphic-ensure": "^1.0.1",
     "isomorphic-fetch": "^2.2.0",
     "isomorphic-relay": "^0.3.4",
