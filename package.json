@@ -526,7 +526,7 @@
     "objection": "^0.3.0",
     "offline-plugin": "^1.3.1",
     "onchange": "^2.0.0",
-    "orm": "^2.1.28",
+    "orm": "^2.1.29",
     "pako": "^0.2.8",
     "paper": "^0.9.25",
     "passport": "^0.3.2",
