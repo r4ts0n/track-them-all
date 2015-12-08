@@ -482,7 +482,7 @@
     "mongodb": "^2.1.0-rc1",
     "mongodb-extended-json": "^1.5.3",
     "mongojs": "^2.0.0",
-    "mongoose": "^4.2.9",
+    "mongoose": "^4.2.10",
     "mongoskin": "^2.0.3",
     "monk": "^1.0.1",
     "monkeypatch": "^1.0.0",
