@@ -243,7 +243,7 @@
     "extract-text-webpack-plugin": "^0.9.1",
     "fake-indexeddb": "^1.0.3",
     "faker": "^3.0.1",
-    "fakeredis": "^1.0.0",
+    "fakeredis": "^1.0.1",
     "falcor": "^0.1.14",
     "falcor-http-datasource": "^0.1.2",
     "falcor-koa": "0.1.0-alpha",
