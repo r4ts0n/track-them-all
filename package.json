@@ -801,7 +801,7 @@
     "typescript": "^1.8.0-dev.20151204",
     "ui-toolkit": "0.0.54",
     "uikit": "^2.24.2",
-    "unexpected": "^10.3.1",
+    "unexpected": "^10.4.0",
     "unexpected-react": "^0.3.2",
     "universal-ga": "^1.0.0-prerelease-3",
     "universal-redux-router": "^0.2.1",
