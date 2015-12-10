@@ -86,7 +86,7 @@
     "cache-manager": "^1.2.2",
     "cacheman": "^2.0.5",
     "call-number": "0.0.2",
-    "caminte": "0.0.39",
+    "caminte": "0.0.40",
     "canonical": "^2.6.6",
     "chai-immutable": "^1.5.3",
     "chalk": "^1.1.1",
