@@ -593,7 +593,7 @@
     "react-clipboard": "^1.2.0",
     "react-color": "^1.2.1",
     "react-copy-to-clipboard": "^3.0.4",
-    "react-cordova-boilerplate": "^1.0.2",
+    "react-cordova-boilerplate": "^1.1.0",
     "react-coverflow": "^0.1.10",
     "react-css-modules": "^3.6.3",
     "react-daterange-picker": "^1.0.0",
