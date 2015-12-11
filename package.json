@@ -834,7 +834,7 @@
     "webpack-closure-compiler": "^1.1.1",
     "webpack-config": "^2.3.0",
     "webpack-config-plugin": "^0.3.1",
-    "webpack-config-stream": "^2.3.0",
+    "webpack-config-stream": "^4.0.0",
     "webpack-configurator": "^0.3.1",
     "webpack-hot-middleware": "^2.6.0",
     "webpack-notifier": "^1.2.1",
