@@ -839,7 +839,7 @@
     "webpack-hot-middleware": "^2.6.0",
     "webpack-notifier": "^1.2.1",
     "webpack-partial": "^1.0.0",
-    "webpack-stream": "^2.3.0",
+    "webpack-stream": "^3.0.1",
     "webpack-unassert-loader": "^1.0.0",
     "winston": "^2.1.1",
     "wintersmith": "^2.2.4",
