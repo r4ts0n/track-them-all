@@ -37,7 +37,7 @@
     "axios": "^0.7.0",
     "azul": "0.0.1-alpha.15",
     "babel": "^6.3.13",
-    "babel-core": "^6.3.13",
+    "babel-core": "^6.3.17",
     "babel-eslint": "^5.0.0-beta4",
     "babel-loader": "^6.2.0",
     "babel-plugin-closure-elimination": "0.0.2",
