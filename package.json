@@ -560,7 +560,7 @@
     "postcss-responsive-images": "^1.0.1",
     "posthtml": "^0.8.0",
     "power-assert": "^1.2.0",
-    "pragmatist": "^1.9.4",
+    "pragmatist": "^2.2.0",
     "pre-commit": "^1.1.2",
     "preact": "^2.5.0",
     "prepush": "^3.1.5",
