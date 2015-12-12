@@ -179,7 +179,7 @@
     "cosmos-js": "^0.7.0",
     "creditcard": "^0.1.2",
     "cropper": "^2.1.0",
-    "cropperjs": "^0.4.0",
+    "cropperjs": "^0.5.1",
     "cross-storage": "^0.8.1",
     "crossroads": "^0.12.2",
     "css-loader": "^0.23.0",
