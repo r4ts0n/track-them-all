@@ -480,7 +480,7 @@
     "moment": "^2.10.6",
     "mongo-datatable": "^0.4.0",
     "mongodb": "^2.1.0-rc1",
-    "mongodb-extended-json": "^1.5.3",
+    "mongodb-extended-json": "^1.5.5",
     "mongojs": "^2.0.0",
     "mongoose": "^4.2.9",
     "mongoskin": "^2.0.3",
