@@ -262,7 +262,7 @@
     "flowchart": "^1.2.0",
     "flux-constants": "^0.2.2",
     "fluxible": "^1.0.3",
-    "fluxible-addons-react": "^0.2.0",
+    "fluxible-addons-react": "^0.2.2",
     "fluxible-immutable-utils": "^0.5.1",
     "forever": "^0.15.1",
     "formsy-react": "^0.17.0",
