@@ -664,7 +664,7 @@
     "react-stub-context": "^0.4.0",
     "react-styleable": "^2.0.0",
     "react-tap-event-plugin": "^0.2.1",
-    "react-tappable": "^0.7.1",
+    "react-tappable": "^0.7.2",
     "react-themeable": "^1.0.1",
     "react-three-renderer": "0.0.12-alpha",
     "react-time": "^4.0.0",
