@@ -479,7 +479,7 @@
     "modularized-normalize-scss": "^3.0.3",
     "moment": "^2.10.6",
     "mongo-datatable": "^0.4.0",
-    "mongodb": "^2.1.0-rc1",
+    "mongodb": "^2.1.1",
     "mongodb-extended-json": "^1.5.3",
     "mongojs": "^2.0.0",
     "mongoose": "^4.2.9",
