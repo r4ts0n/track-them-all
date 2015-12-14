@@ -52,7 +52,7 @@
     "babel-plugin-react-intl": "^2.0.0",
     "babel-plugin-react-remove-prop-types": "^1.0.0",
     "babel-plugin-react-transform": "^1.1.1",
-    "babel-plugin-transform-decorators-legacy": "^1.1.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.1",
     "babel-plugin-typecheck": "^3.4.5",
     "babel-plugin-uglify": "^1.0.2",
     "babel-plugin-unassert": "^2.0.0",
