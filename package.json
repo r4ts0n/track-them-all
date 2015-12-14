@@ -154,7 +154,7 @@
     "cordova-plugin-gcmpushplugin": "^1.2.0",
     "cordova-plugin-geofence": "^0.5.0",
     "cordova-plugin-google-analytics": "^0.8.1",
-    "cordova-plugin-inappbrowser": "^1.1.0",
+    "cordova-plugin-inappbrowser": "^1.1.1",
     "cordova-plugin-indexeddb-async": "^2.2.1",
     "cordova-plugin-local-notifications": "^1.0.0",
     "cordova-plugin-media-capture": "^1.1.0",
