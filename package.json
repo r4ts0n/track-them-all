@@ -481,7 +481,7 @@
     "mongo-datatable": "^0.4.0",
     "mongodb": "^2.1.0-rc1",
     "mongodb-extended-json": "^1.5.3",
-    "mongojs": "^2.0.0",
+    "mongojs": "^2.2.0",
     "mongoose": "^4.2.9",
     "mongoskin": "^2.0.3",
     "monk": "^1.0.1",
