@@ -621,7 +621,7 @@
     "react-input-field": "^1.2.4",
     "react-intl": "^2.0.0-pr-3",
     "react-lazy-load": "^2.0.1",
-    "react-list": "^0.7.8",
+    "react-list": "^0.7.9",
     "react-look": "^0.6.2",
     "react-map-gl": "^0.6.0",
     "react-material": "^0.3.2",
