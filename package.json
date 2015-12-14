@@ -694,7 +694,7 @@
     "redux-act": "^0.2.0",
     "redux-chaos": "^1.1.0",
     "redux-convention": "^1.0.1",
-    "redux-crud": "^0.9.1",
+    "redux-crud": "^0.10.1",
     "redux-debug": "^1.0.3",
     "redux-devtools": "^3.0.0-beta-3",
     "redux-falcor": "^2.3.3",
