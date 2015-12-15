@@ -776,7 +776,7 @@
     "stylus": "^0.52.4",
     "superagent": "^1.5.0",
     "superagent-proxy": "^1.0.0",
-    "superstatic": "^3.0.0",
+    "superstatic": "^4.0.0",
     "supertest": "^1.1.0",
     "supertest-as-promised": "^2.0.2",
     "surface": "^0.7.12",
