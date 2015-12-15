@@ -87,7 +87,7 @@
     "cacheman": "^2.0.5",
     "call-number": "0.0.2",
     "caminte": "0.0.39",
-    "canonical": "^2.6.6",
+    "canonical": "^2.7.0",
     "chai-immutable": "^1.5.3",
     "chalk": "^1.1.1",
     "chart.js": "^1.0.2",
