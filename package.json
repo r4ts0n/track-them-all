@@ -375,7 +375,7 @@
     "jsondiffpatch": "^0.1.37",
     "jsoneditor": "^4.2.1",
     "jsonwebtoken": "^5.4.1",
-    "jspm": "^0.16.15",
+    "jspm": "^0.16.16",
     "jsrsasign": "^5.0.5",
     "jsxgettext": "^0.8.1",
     "jugglingdb": "^1.0.2",
