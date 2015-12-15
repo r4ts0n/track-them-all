@@ -831,7 +831,7 @@
     "web-term": "^4.3.0",
     "webpack": "^2.0.1-beta",
     "webpack-bundle-size-analyzer": "^1.2.0",
-    "webpack-closure-compiler": "^1.1.1",
+    "webpack-closure-compiler": "^1.1.2",
     "webpack-config": "^2.3.0",
     "webpack-config-plugin": "^0.3.1",
     "webpack-config-stream": "^2.3.0",
