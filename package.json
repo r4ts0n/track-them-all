@@ -76,7 +76,7 @@
     "bower-webpack-plugin": "^0.1.9",
     "bowser": "^1.0.0",
     "bpmn-js": "^0.12.1",
-    "browser-sync": "^2.10.0",
+    "browser-sync": "^2.10.1",
     "browser-sync-webpack-plugin": "^1.0.1",
     "browserify": "^12.0.1",
     "brunch": "^2.0.1",
