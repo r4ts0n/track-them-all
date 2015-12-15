@@ -244,7 +244,7 @@
     "fake-indexeddb": "^1.0.3",
     "faker": "^3.0.1",
     "fakeredis": "^1.0.0",
-    "falcor": "^0.1.14",
+    "falcor": "^0.1.15",
     "falcor-http-datasource": "^0.1.2",
     "falcor-koa": "0.1.0-alpha",
     "falcor-router": "^0.2.12",
