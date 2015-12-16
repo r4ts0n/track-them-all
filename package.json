@@ -774,7 +774,7 @@
     "structor": "^0.2.1",
     "style-loader": "^0.13.0",
     "stylus": "^0.52.4",
-    "superagent": "^1.5.0",
+    "superagent": "^1.6.1",
     "superagent-proxy": "^1.0.0",
     "superstatic": "^3.0.0",
     "supertest": "^1.1.0",
