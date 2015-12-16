@@ -328,7 +328,7 @@
     "husky": "^0.10.2",
     "imagemin": "^4.0.0",
     "imager.js": "^0.5.0",
-    "immutable": "^3.7.5",
+    "immutable": "^3.7.6",
     "immutable-reducers": "^1.1.0",
     "includejs": "^0.9.31",
     "infer": "^2.0.0",
