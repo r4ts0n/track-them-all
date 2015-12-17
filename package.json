@@ -195,7 +195,7 @@
     "deep-diff": "^0.3.3",
     "delicate-error-reporter": "0.0.9",
     "deployd": "^0.8.7",
-    "devlab": "^1.5.3",
+    "devlab": "^1.7.0",
     "diff": "^2.2.1",
     "docco": "^0.7.0",
     "docpad": "^6.78.4",
