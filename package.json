@@ -581,7 +581,7 @@
     "react": "^0.14.3",
     "react-a11y": "^0.2.8",
     "react-ab": "^0.4.4",
-    "react-ab-test": "^1.2.1",
+    "react-ab-test": "^1.4.1",
     "react-alt-text": "^1.1.0",
     "react-async-script": "^0.5.0",
     "react-async-script-loader": "^0.1.1",
