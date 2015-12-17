@@ -419,7 +419,7 @@
     "koa-sub-domain": "^1.0.2",
     "koa-views": "^3.1.0",
     "koa-webpack-dev-middleware": "^1.0.1",
-    "koa-webpack-hot-middleware": "^1.0.1",
+    "koa-webpack-hot-middleware": "^1.0.3",
     "koa.io": "0.0.3",
     "koala": "^1.0.0",
     "konva": "^0.10.0",
