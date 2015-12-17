@@ -227,7 +227,7 @@
     "eslint-config-standard": "^4.4.0",
     "eslint-loader": "^1.1.1",
     "eslint-plugin-babel": "^3.0.0",
-    "eslint-plugin-import": "^0.11.0",
+    "eslint-plugin-import": "^0.12.1",
     "eslint-plugin-jsdoc": "1.1.0",
     "eslint-plugin-lodash3": "^0.3.0",
     "eslint-plugin-mocha": "^1.1.0",
