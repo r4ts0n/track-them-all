@@ -800,7 +800,7 @@
     "ts-loader": "^0.7.2",
     "typescript": "^1.8.0-dev.20151204",
     "ui-toolkit": "0.0.54",
-    "uikit": "^2.24.2",
+    "uikit": "^2.24.3",
     "unexpected": "^10.3.1",
     "unexpected-react": "^0.3.2",
     "universal-ga": "^1.0.0-prerelease-3",
