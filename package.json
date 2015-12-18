@@ -276,7 +276,7 @@
     "gaze": "^0.6.4",
     "generator-babel-boilerplate": "^5.1.1",
     "generator-m-ionic": "^1.4.1",
-    "generator-react-webpack": "^3.1.1",
+    "generator-react-webpack": "^3.2.0",
     "geolib": "^2.0.18",
     "geyser": "0.0.2",
     "ghost-render": "^1.1.0",
