@@ -204,7 +204,7 @@
     "dom-delegate": "^2.0.3",
     "dox": "^0.8.0",
     "duo": "^0.15.3",
-    "elemental": "^0.5.6",
+    "elemental": "^0.5.9",
     "email-addresses": "^2.0.1",
     "email-templates": "^2.0.1",
     "ember": "^1.0.0-pre.m2",
