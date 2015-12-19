@@ -367,7 +367,7 @@
     "jquery-numerator": "^0.2.1",
     "jquery.animate-number": "0.0.12",
     "js-beautify": "^1.5.10",
-    "jscodeshift": "^0.3.9",
+    "jscodeshift": "^0.3.11",
     "jsdoc": "^3.4.0",
     "jsdom": "^7.1.1",
     "jsfmt": "^0.5.2",
