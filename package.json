@@ -620,7 +620,7 @@
     "react-inline-grid": "^0.5.3",
     "react-input-field": "^1.2.4",
     "react-intl": "^2.0.0-pr-3",
-    "react-lazy-load": "^2.0.1",
+    "react-lazy-load": "^2.0.2",
     "react-list": "^0.7.8",
     "react-look": "^0.6.2",
     "react-map-gl": "^0.6.0",
