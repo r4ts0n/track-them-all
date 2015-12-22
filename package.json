@@ -544,7 +544,7 @@
     "lerna": "^1.0.5",
     "libphonenumber-umd": "^1.0.1",
     "lightgallery": "^1.2.9",
-    "linvodb3": "^3.11.2",
+    "linvodb3": "^3.12.0",
     "live-app": "^0.1.0",
     "livereactload": "^2.1.0",
     "loadtest": "^1.3.0",
