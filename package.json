@@ -2,7 +2,7 @@
   "private": true,
   "dependencies": {
     "Haraka": "^2.7.2",
-    "acacia": "^0.4.2",
+    "acacia": "^0.4.3",
     "acquit": "^0.4.1",
     "actor-sdk": "^1.0.57",
     "admin-lte": "^2.3.2",
