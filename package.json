@@ -851,7 +851,7 @@
     "react-plupload": "0.0.13",
     "react-pure-render": "^1.0.2",
     "react-quill": "^0.3.0",
-    "react-redux": "^4.0.2",
+    "react-redux": "^4.0.4",
     "react-refetch": "^0.6.0",
     "react-relay": "^0.6.0",
     "react-remarkable": "^1.1.1",
