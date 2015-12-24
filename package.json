@@ -500,7 +500,7 @@
     "koa-force-ssl": "0.0.5",
     "koa-generic-session": "^1.10.1",
     "koa-graphql": "^0.4.4",
-    "koa-helmet": "^1.0.0-alpha.1",
+    "koa-helmet": "^1.0.0",
     "koa-html-minifier": "^1.0.1",
     "koa-ip": "^0.1.0",
     "koa-jwt": "^1.1.1",
