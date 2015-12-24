@@ -621,7 +621,7 @@
     "nanotimer": "^0.3.13",
     "natural": "^0.2.1",
     "nconf": "^0.8.2",
-    "neal-react": "^0.2.1",
+    "neal-react": "^0.2.2",
     "nedb": "^1.5.0",
     "nestedtypes": "^1.3.0-rc9",
     "ng-falcor": "^0.4.0",
