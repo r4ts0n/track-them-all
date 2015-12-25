@@ -984,7 +984,7 @@
     "rest-facade": "^1.2.7",
     "restful.js": "^0.9.3",
     "rethinkdb": "^2.2.1",
-    "rethinkdbdash": "^2.2.12",
+    "rethinkdbdash": "^2.2.14",
     "reveal.js": "^3.2.0",
     "revenant": "^0.3.2",
     "rimg": "^1.0.0",
