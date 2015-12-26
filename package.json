@@ -1076,7 +1076,7 @@
     "swagger-ui": "^2.1.8-M1",
     "swig": "^1.4.2",
     "swiper": "^3.2.7",
-    "switcheroo": "^0.13.1",
+    "switcheroo": "^1.0.1",
     "systemjs": "^0.19.9",
     "tape": "^4.2.2",
     "taunus": "^8.0.2",
