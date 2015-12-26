@@ -1078,7 +1078,7 @@
     "swiper": "^3.2.7",
     "switcheroo": "^0.13.1",
     "systemjs": "^0.19.9",
-    "tape": "^4.2.2",
+    "tape": "^4.4.0",
     "taunus": "^8.0.2",
     "team-directory": "^1.4.0",
     "tern": "^0.16.0",
