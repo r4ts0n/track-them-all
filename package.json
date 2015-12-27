@@ -416,7 +416,7 @@
     "import-sort": "^0.5.0",
     "includejs": "^0.9.31",
     "infer": "^2.0.0",
-    "influx": "^4.0.1",
+    "influx": "^4.1.0",
     "inkjet": "^2.0.0",
     "inline-style-prefixer": "^0.5.4",
     "input-moment": "0.0.6",
