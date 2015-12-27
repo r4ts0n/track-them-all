@@ -836,7 +836,7 @@
     "react-native-material-kit": "^0.2.4",
     "react-native-parallax-view": "^2.0.3",
     "react-native-scrollview-lazyload": "^1.0.4",
-    "react-native-web": "0.0.12",
+    "react-native-web": "0.0.13",
     "react-native-webpack-server": "^0.8.2",
     "react-nexus": "^4.0.6-dev",
     "react-notification": "^3.0.3",
