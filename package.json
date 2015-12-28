@@ -338,7 +338,7 @@
     "gaze": "^0.6.4",
     "generator-babel-boilerplate": "^5.1.1",
     "generator-m-ionic": "^1.4.1",
-    "generator-react-webpack": "^3.2.0",
+    "generator-react-webpack": "^3.2.1",
     "generic-pool": "^2.2.2",
     "geolib": "^2.0.18",
     "gestrec": "^1.0.0",
