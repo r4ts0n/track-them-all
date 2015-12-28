@@ -275,7 +275,7 @@
     "eslint-loader": "^1.1.1",
     "eslint-plugin-babel": "^3.0.0",
     "eslint-plugin-import": "^0.12.1",
-    "eslint-plugin-jsdoc": "1.1.0",
+    "eslint-plugin-jsdoc": "2.1.2",
     "eslint-plugin-lodash3": "^0.4.0",
     "eslint-plugin-mocha": "^1.1.0",
     "eslint-plugin-react": "^3.12.0",
