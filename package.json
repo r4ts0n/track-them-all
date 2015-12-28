@@ -899,7 +899,7 @@
     "react-swipr": "^2.0.2",
     "react-sync-state": "^0.1.4",
     "react-tap-event-plugin": "^0.2.1",
-    "react-tappable": "^0.7.2",
+    "react-tappable": "^0.8.0",
     "react-test-tree": "^1.0.0",
     "react-textarea-autosize": "^3.2.0",
     "react-themeable": "^1.0.1",
