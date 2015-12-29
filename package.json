@@ -1066,7 +1066,7 @@
     "stylus": "^0.53.0",
     "superagent": "^1.6.1",
     "superagent-proxy": "^1.0.0",
-    "superstatic": "^4.0.0",
+    "superstatic": "^4.0.1",
     "supertest": "^1.1.0",
     "supertest-as-promised": "^2.0.2",
     "surface": "^0.7.12",
