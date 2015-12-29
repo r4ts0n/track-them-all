@@ -1070,7 +1070,7 @@
     "supertest": "^1.1.0",
     "supertest-as-promised": "^2.0.2",
     "surface": "^0.7.12",
-    "svg.js": "^2.2.4",
+    "svg.js": "^2.2.5",
     "svgo": "^0.6.1",
     "swagger-editor-src": "^2.9.8",
     "swagger-ui": "^2.1.8-M1",
