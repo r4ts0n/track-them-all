@@ -96,7 +96,7 @@
     "bootstrap": "^4.0.0-alpha.2",
     "bootstrap-material-design": "^0.3.0",
     "bootstrap-timepicker": "^0.5.1",
-    "botkit": "0.0.4",
+    "botkit": "0.0.5",
     "bower-webpack-plugin": "^0.1.9",
     "bowser": "^1.0.0",
     "bpmn-js": "^0.12.1",
