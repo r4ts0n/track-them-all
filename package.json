@@ -336,7 +336,7 @@
     "gaia": "0.0.1",
     "gatsby": "^0.7.5",
     "gaze": "^0.6.4",
-    "generator-babel-boilerplate": "^5.1.1",
+    "generator-babel-boilerplate": "^6.0.2",
     "generator-m-ionic": "^1.4.1",
     "generator-react-webpack": "^3.2.0",
     "generic-pool": "^2.2.2",
