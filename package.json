@@ -1019,7 +1019,7 @@
     "sequest": "^0.9.0",
     "serialize-javascript": "^1.1.2",
     "shift.js": "^0.1.1",
-    "shot": "^2.0.1",
+    "shot": "^3.0.0",
     "should": "^8.0.2",
     "should-http": "0.0.4",
     "should-sinon": "0.0.3",
