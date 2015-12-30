@@ -293,7 +293,7 @@
     "faker": "^3.0.1",
     "fakeredis": "^1.0.2",
     "falcor": "^0.1.15",
-    "falcor-expand-cache": "0.0.2",
+    "falcor-expand-cache": "0.0.3",
     "falcor-http-datasource": "^0.1.2",
     "falcor-koa": "0.1.0-alpha",
     "falcor-koa-router": "^0.1.2",
