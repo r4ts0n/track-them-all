@@ -1121,7 +1121,7 @@
     "vega": "^2.4.2",
     "velocity-react": "^1.1.1",
     "verror": "^1.6.0",
-    "victory": "0.1.0",
+    "victory": "0.1.2",
     "victory-chart": "^2.1.1",
     "vinyl-named": "^1.1.0",
     "virtual-dom": "^2.1.1",
