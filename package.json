@@ -470,7 +470,7 @@
     "json-editor": "^0.7.23",
     "json-graphify": "^0.6.0",
     "jsondiffpatch": "^0.1.38",
-    "jsoneditor": "^4.2.1",
+    "jsoneditor": "^5.0.0",
     "jsonwebtoken": "^5.4.1",
     "jspm": "^0.16.19",
     "jsrsasign": "^5.0.5",
