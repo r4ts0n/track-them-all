@@ -775,7 +775,7 @@
     "react-dom-stream": "^0.3.0",
     "react-entity": "^1.0.8",
     "react-essence": "0.1.9",
-    "react-experiments": "^3.0.1",
+    "react-experiments": "^4.0.0",
     "react-externs": "^0.13.5",
     "react-faux-dom": "^2.1.1",
     "react-flexbox": "^3.0.0",
