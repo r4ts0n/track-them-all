@@ -150,7 +150,7 @@
     "commander": "^2.9.0",
     "complexity-report": "^1.4.1",
     "concrete": "0.0.3",
-    "conf-fu": "^0.5.16",
+    "conf-fu": "^0.5.17",
     "config": "^1.17.1",
     "confit": "^2.0.3",
     "connect-alt": "^1.0.7",
