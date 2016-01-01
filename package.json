@@ -339,7 +339,7 @@
     "generator-babel-boilerplate": "^5.1.1",
     "generator-m-ionic": "^1.4.1",
     "generator-react-webpack": "^3.2.0",
-    "generic-pool": "^2.2.2",
+    "generic-pool": "^2.3.0",
     "geolib": "^2.0.18",
     "gestrec": "^1.0.0",
     "geyser": "0.0.2",
