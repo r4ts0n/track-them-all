@@ -918,7 +918,7 @@
     "react-treebeard": "^1.1.0",
     "react-typeahead": "^1.1.5",
     "react-validators": "^0.1.2",
-    "react-variable-height-infinite-scroller": "^3.1.1",
+    "react-variable-height-infinite-scroller": "^3.3.1",
     "react-vendor-prefixes": "0.0.2",
     "react-virtualized": "^2.5.0",
     "react-vui-forms": "^0.3.2",
