@@ -997,7 +997,7 @@
     "roboto-fontface": "^0.4.2",
     "rodal": "^1.2.6",
     "rolljs": "^0.1.2",
-    "rollup": "^0.21.2",
+    "rollup": "^0.23.2",
     "rollup-babel": "^0.6.3",
     "router5": "^1.2.2",
     "rsvp": "^3.1.0",
