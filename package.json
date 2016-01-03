@@ -905,7 +905,7 @@
     "react-themeable": "^1.0.1",
     "react-three-renderer": "0.0.14-alpha",
     "react-time": "^4.0.0",
-    "react-toastr": "^2.2.4",
+    "react-toastr": "^2.3.0",
     "react-toolbox": "^0.14.0",
     "react-tooltip": "^0.9.8",
     "react-track": "^0.3.0",
