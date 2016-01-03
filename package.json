@@ -288,7 +288,7 @@
     "exenv": "^1.2.0",
     "exhibit": "^0.7.0",
     "express": "^5.0.0-alpha.2",
-    "extract-text-webpack-plugin": "^0.9.1",
+    "extract-text-webpack-plugin": "^1.0.0",
     "fake-indexeddb": "^1.0.3",
     "faker": "^3.0.1",
     "fakeredis": "^1.0.2",
