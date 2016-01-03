@@ -698,7 +698,7 @@
     "poet": "^2.0.1",
     "polythene": "^0.1.36",
     "popmotion": "^4.3.0",
-    "postcss": "^5.0.13",
+    "postcss": "^5.0.14",
     "postcss-loader": "^0.8.0",
     "postcss-modules-extract-imports": "1.0.0",
     "postcss-modules-local-by-default": "1.0.0",
