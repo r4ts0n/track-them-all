@@ -795,7 +795,7 @@
     "react-helmet": "^2.2.0",
     "react-hot-loader": "^2.0.0-alpha-4",
     "react-i13n": "^1.0.0",
-    "react-image-gallery": "^0.5.2",
+    "react-image-gallery": "^0.5.4",
     "react-imation": "^0.5.3",
     "react-immutable-proptypes": "^1.5.0",
     "react-infinite": "^0.7.3",
