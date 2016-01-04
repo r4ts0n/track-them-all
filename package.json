@@ -102,7 +102,7 @@
     "bpmn-js": "^0.12.1",
     "breakjs": "^0.1.9",
     "browser-notifications": "0.0.3",
-    "browser-sync": "^2.10.1",
+    "browser-sync": "^2.11.0",
     "browser-sync-webpack-plugin": "^1.0.1",
     "browserify": "^12.0.1",
     "brunch": "^2.0.4",
