@@ -461,7 +461,7 @@
     "jquery.animate-number": "0.0.12",
     "js-beautify": "^1.5.10",
     "jscodeshift": "^0.3.11",
-    "jscs": "^2.7.0",
+    "jscs": "^2.8.0",
     "jsctags": "^4.0.0",
     "jsdoc": "^3.4.0",
     "jsdom": "^7.2.1",
