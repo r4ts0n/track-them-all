@@ -128,7 +128,7 @@
     "clappr": "^0.2.28",
     "class-acts": "^1.0.3",
     "classeur": "^0.17.0",
-    "classnames": "^2.2.1",
+    "classnames": "^2.2.2",
     "cld": "^2.4.5",
     "clean-webpack-plugin": "^0.1.5",
     "cli-color": "^1.1.0",
