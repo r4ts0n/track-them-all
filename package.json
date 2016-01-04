@@ -940,7 +940,7 @@
     "redislock": "^1.2.0",
     "redux": "^3.0.5",
     "redux-act": "^0.2.0",
-    "redux-api": "^0.7.2",
+    "redux-api": "^0.8.3",
     "redux-auth": "0.0.2",
     "redux-chaos": "^1.1.0",
     "redux-convention": "^1.0.1",
