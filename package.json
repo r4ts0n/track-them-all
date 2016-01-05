@@ -543,7 +543,7 @@
     "legit-tests": "^0.6.3",
     "lerna": "^1.0.5",
     "libphonenumber-umd": "^1.0.1",
-    "lightgallery": "^1.2.9",
+    "lightgallery": "^1.2.13",
     "linvodb3": "^3.11.2",
     "live-app": "^0.1.0",
     "livereactload": "^2.1.0",
