@@ -118,7 +118,7 @@
     "cerebral": "^0.26.1",
     "chai": "^3.4.1",
     "chai-immutable": "^1.5.3",
-    "chakram": "^1.2.1",
+    "chakram": "^1.2.2",
     "chalk": "^1.1.1",
     "chance": "^0.8.0",
     "chart.js": "^1.0.2",
