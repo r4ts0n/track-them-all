@@ -773,7 +773,7 @@
     "react-docgen": "^2.4.0",
     "react-dom": "^0.14.3",
     "react-dom-stream": "^0.3.0",
-    "react-entity": "^1.0.8",
+    "react-entity": "^1.0.9",
     "react-essence": "0.1.9",
     "react-experiments": "^3.0.1",
     "react-externs": "^0.13.5",
