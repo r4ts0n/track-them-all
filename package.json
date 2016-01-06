@@ -706,7 +706,7 @@
     "postcss-responsive-images": "^1.0.1",
     "posthtml": "^0.8.0",
     "power-assert": "^1.2.0",
-    "pragmatist": "^2.3.5",
+    "pragmatist": "^2.3.68",
     "pre-commit": "^1.1.2",
     "preact": "^2.6.1",
     "prepush": "^3.1.7",
