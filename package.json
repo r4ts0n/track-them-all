@@ -299,7 +299,7 @@
     "falcor-koa-router": "^0.1.2",
     "falcor-router": "^0.2.12",
     "falcor-shapes": "^1.0.2",
-    "falcor-shapes-prop-types": "^2.1.1",
+    "falcor-shapes-prop-types": "^2.1.2",
     "falcro": "^1.0.1",
     "famous": "^0.7.1",
     "famous-angular": "^0.4.0-3",
