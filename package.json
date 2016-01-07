@@ -460,7 +460,7 @@
     "jquery-touchswipe": "^1.6.15",
     "jquery.animate-number": "0.0.12",
     "js-beautify": "^1.5.10",
-    "jscodeshift": "^0.3.11",
+    "jscodeshift": "^0.3.12",
     "jscs": "^2.7.0",
     "jsctags": "^4.0.0",
     "jsdoc": "^3.4.0",
