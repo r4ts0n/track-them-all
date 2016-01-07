@@ -814,7 +814,7 @@
     "react-list": "^0.7.9",
     "react-list-view": "^0.3.2",
     "react-look": "^0.7.0",
-    "react-map-gl": "^0.6.1",
+    "react-map-gl": "^0.6.3",
     "react-material": "^0.3.2",
     "react-material-design-lite": "^0.6.0",
     "react-materialize": "^0.14.0-beta3",
