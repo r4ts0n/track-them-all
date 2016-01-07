@@ -94,7 +94,7 @@
     "bookshelf": "^0.9.1",
     "bookshelf-modelbase": "^2.6.7",
     "bootstrap": "^4.0.0-alpha.2",
-    "bootstrap-material-design": "^0.3.0",
+    "bootstrap-material-design": "^0.5.7",
     "bootstrap-timepicker": "^0.5.1",
     "botkit": "0.0.4",
     "bower-webpack-plugin": "^0.1.9",
