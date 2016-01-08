@@ -704,7 +704,7 @@
     "postcss-modules-local-by-default": "1.0.0",
     "postcss-modules-scope": "1.0.0",
     "postcss-responsive-images": "^1.0.1",
-    "posthtml": "^0.8.0",
+    "posthtml": "^0.8.1",
     "power-assert": "^1.2.0",
     "pragmatist": "^2.3.5",
     "pre-commit": "^1.1.2",
