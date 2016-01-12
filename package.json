@@ -933,7 +933,7 @@
     "reapp-ui": "^0.12.70",
     "recast": "^0.10.39",
     "recluster": "^0.4.5",
-    "recompose": "^0.14.0",
+    "recompose": "^0.14.4",
     "reconfig": "^1.6.3",
     "redbox-react": "^1.2.0",
     "redis": "^2.4.2",
