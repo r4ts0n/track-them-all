@@ -569,7 +569,7 @@
     "material-design-react": "^0.2.1",
     "material-ui": "^0.14.0-rc2",
     "materialize-css": "^0.97.4",
-    "mathjs": "^2.5.0",
+    "mathjs": "^2.6.0",
     "matic": "^0.5.1",
     "mdoc": "^0.5.2",
     "mediaquery": "0.0.3",
