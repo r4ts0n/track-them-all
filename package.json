@@ -151,7 +151,7 @@
     "complexity-report": "^1.4.1",
     "concrete": "0.0.3",
     "conf-fu": "^0.5.16",
-    "config": "^1.17.1",
+    "config": "^1.19.0",
     "confit": "^2.0.3",
     "connect-alt": "^1.0.7",
     "console-trace": "^0.2.1",
