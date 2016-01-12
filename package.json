@@ -104,7 +104,7 @@
     "browser-notifications": "0.0.3",
     "browser-sync": "^2.10.1",
     "browser-sync-webpack-plugin": "^1.0.1",
-    "browserify": "^12.0.1",
+    "browserify": "^12.0.2",
     "brunch": "^2.0.4",
     "bunyan": "^1.5.1",
     "buster": "^0.7.18",
