@@ -1055,7 +1055,7 @@
     "standard": "^5.4.1",
     "standard-format": "^2.1.0",
     "state-machine": "0.0.3",
-    "stats-webpack-plugin": "^0.2.2",
+    "stats-webpack-plugin": "^0.3.0",
     "stilr": "^1.2.1",
     "strapi": "^1.5.1",
     "string": "^3.3.1",
