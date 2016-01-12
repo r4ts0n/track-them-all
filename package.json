@@ -25,7 +25,7 @@
     "animate.css": "^3.4.0",
     "animation-frame": "^0.2.5",
     "annyang": "^1.0.1",
-    "anvil-connect": "^0.1.58",
+    "anvil-connect": "^0.1.59",
     "anvil-connect-jwt": "^0.1.6",
     "anvil-connect-nodejs": "^0.2.4",
     "api-easy": "^0.4.0",
