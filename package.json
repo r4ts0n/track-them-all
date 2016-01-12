@@ -228,7 +228,7 @@
     "d3": "^3.5.12",
     "d3-shape": "^0.2.2",
     "d3.compose": "^0.15.12",
-    "dataloader": "^1.0.0",
+    "dataloader": "^1.1.0",
     "datamask": "^0.1.1",
     "david": "^7.0.0",
     "dbdiff": "^0.2.0",
