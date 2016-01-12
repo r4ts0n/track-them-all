@@ -1136,7 +1136,7 @@
     "vuex": "^0.2.0",
     "waterline": "^0.10.28",
     "web-react": "^1.1.0",
-    "web-term": "^4.3.0",
+    "web-term": "^4.7.0",
     "webpack": "^2.0.1-beta",
     "webpack-bundle-size-analyzer": "^1.2.0",
     "webpack-closure-compiler": "^1.1.2",
