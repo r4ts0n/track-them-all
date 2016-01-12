@@ -248,7 +248,7 @@
     "dox": "^0.8.0",
     "dreamjs": "^0.1.5",
     "duo": "^0.15.3",
-    "echarts": "^3.0.0-beta2",
+    "echarts": "^3.0.0",
     "elemental": "^0.5.9",
     "email-addresses": "^2.0.1",
     "email-templates": "^2.0.1",
