@@ -130,7 +130,7 @@
     "classeur": "^0.17.0",
     "classnames": "^2.2.1",
     "cld": "^2.4.5",
-    "clean-webpack-plugin": "^0.1.5",
+    "clean-webpack-plugin": "^0.1.6",
     "cli-color": "^1.1.0",
     "clipboard": "^1.5.5",
     "clipboard-js": "^0.2.0",
