@@ -931,7 +931,7 @@
     "reagent": "^1.0.1",
     "reapp": "^0.8.28",
     "reapp-ui": "^0.12.70",
-    "recast": "^0.10.39",
+    "recast": "^0.11.0",
     "recluster": "^0.4.5",
     "recompose": "^0.14.0",
     "reconfig": "^1.6.3",
