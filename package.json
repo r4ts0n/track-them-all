@@ -79,7 +79,7 @@
     "babel-preset-stage-0": "^6.3.13",
     "babel-relay-plugin": "^0.6.1",
     "babel-runtime": "^6.3.19",
-    "baobab": "^2.2.1",
+    "baobab": "^2.3.1",
     "basket.js": "^0.5.2",
     "bcryptjs": "^2.3.0",
     "belle": "^2.0.3",
