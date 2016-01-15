@@ -1048,7 +1048,7 @@
     "socketcluster": "^3.0.0",
     "sockjs": "^0.3.15",
     "sockjs-client": "^1.0.3",
-    "spectacle": "^1.0.2",
+    "spectacle": "^1.0.4",
     "split.js": "^1.0.6",
     "spm": "^3.9.0-beta3",
     "ssh2": "^0.4.12",
