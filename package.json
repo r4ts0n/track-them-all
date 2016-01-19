@@ -169,7 +169,7 @@
     "cordova-plugin-autostart": "^2.0.0",
     "cordova-plugin-background-app": "^2.0.2",
     "cordova-plugin-ble": "^1.0.1",
-    "cordova-plugin-ble-central": "^1.0.3",
+    "cordova-plugin-ble-central": "^1.0.4",
     "cordova-plugin-bluetooth-serial": "^0.4.5",
     "cordova-plugin-boot-launcher": "^0.2.0",
     "cordova-plugin-brightness": "^0.1.5",
