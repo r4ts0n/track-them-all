@@ -184,7 +184,7 @@
     "cordova-plugin-dialogs": "^1.2.0",
     "cordova-plugin-fetch": "^1.0.0",
     "cordova-plugin-file": "^4.0.0",
-    "cordova-plugin-file-transfer": "^1.4.0",
+    "cordova-plugin-file-transfer": "^1.5.0",
     "cordova-plugin-gcmpushplugin": "^1.2.0",
     "cordova-plugin-geofence": "^0.5.0",
     "cordova-plugin-google-analytics": "^0.8.1",
