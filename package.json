@@ -516,7 +516,7 @@
     "koa-response-time": "^1.0.2",
     "koa-roles": "^1.0.2",
     "koa-route": "^3.0.0",
-    "koa-router": "^7.0.0",
+    "koa-router": "^7.0.1",
     "koa-socket": "^3.2.0",
     "koa-sslify": "^1.0.1",
     "koa-static-cache": "^3.1.3",
