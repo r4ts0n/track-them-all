@@ -552,7 +552,7 @@
     "localforage-setitems": "^1.1.0",
     "locallyjs": "^0.3.2",
     "lodash": "^3.10.1",
-    "lory.js": "^2.0.0",
+    "lory.js": "^2.0.1",
     "lru-cache": "^4.0.0",
     "lunr": "^0.6.0",
     "lz-string": "^1.4.4",
