@@ -1144,7 +1144,7 @@
     "webpack-config-plugin": "^0.3.1",
     "webpack-config-stream": "^4.0.0",
     "webpack-configurator": "^0.3.1",
-    "webpack-hot-middleware": "^2.6.0",
+    "webpack-hot-middleware": "^2.6.1",
     "webpack-isomorphic-tools": "^2.2.23",
     "webpack-notifier": "^1.2.1",
     "webpack-partial": "^1.0.0",
