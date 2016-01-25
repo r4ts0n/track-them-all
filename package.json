@@ -255,7 +255,7 @@
     "ember": "^1.0.0-pre.m2",
     "ember-cli": "^2.2.0-beta.1",
     "ender": "^2.1.1",
-    "engine.io": "^1.6.4",
+    "engine.io": "^1.6.8",
     "enquire.js": "^2.1.1",
     "ent": "^2.2.0",
     "entities": "^1.1.1",
