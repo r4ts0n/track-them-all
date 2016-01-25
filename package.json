@@ -153,7 +153,7 @@
     "conf-fu": "^0.5.16",
     "config": "^1.17.1",
     "confit": "^2.0.3",
-    "connect-alt": "^1.0.7",
+    "connect-alt": "^1.1.0",
     "console-trace": "^0.2.1",
     "converjon": "^2.7.1",
     "convict": "^1.0.2",
