@@ -750,7 +750,7 @@
     "react-cellblock": "^2.0.0",
     "react-chatview": "0.0.1-alpha.7",
     "react-clipboard": "^1.2.0",
-    "react-color": "^1.3.0",
+    "react-color": "^1.3.5",
     "react-component-gallery": "^1.2.1",
     "react-component-scrollload": "^0.4.0",
     "react-copy-to-clipboard": "^3.0.4",
