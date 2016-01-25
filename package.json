@@ -525,7 +525,7 @@
     "koa-trie-router": "^1.1.0",
     "koa-unless": "0.0.1",
     "koa-userauth": "^1.2.2",
-    "koa-views": "^3.1.0",
+    "koa-views": "^4.0.1",
     "koa-webpack-dev-middleware": "^1.1.0",
     "koa-webpack-hot-middleware": "^1.0.3",
     "koa.io": "0.0.3",
