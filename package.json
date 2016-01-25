@@ -668,7 +668,7 @@
     "outlines": "0.0.5",
     "pako": "^0.2.8",
     "paper": "^0.9.25",
-    "parse": "^1.6.13",
+    "parse": "^1.7.0",
     "parse-react": "^0.5.0",
     "passport": "^0.3.2",
     "passport-custom": "^1.0.5",
