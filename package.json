@@ -602,7 +602,7 @@
     "mongodb-es6": "^1.0.0",
     "mongodb-extended-json": "^1.6.0",
     "mongojs": "^2.2.2",
-    "mongoose": "^4.3.3",
+    "mongoose": "^4.3.7",
     "mongorito": "^1.4.6",
     "mongoskin": "^2.0.3",
     "monk": "^1.0.1",
