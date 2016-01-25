@@ -634,7 +634,7 @@
     "node-gcm": "^0.13.0",
     "node-phonenumber": "^0.2.2",
     "node-redis-warlock": "^0.1.4",
-    "node-rsa": "^0.2.26",
+    "node-rsa": "^0.3.0",
     "node.docker": "^1.0.0",
     "nodemailer-stub-transport": "^1.0.0",
     "nodemailer-wrapper": "^1.2.0",
