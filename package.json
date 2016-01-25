@@ -1147,7 +1147,7 @@
     "webpack-hot-middleware": "^2.6.0",
     "webpack-isomorphic-tools": "^2.2.23",
     "webpack-notifier": "^1.2.1",
-    "webpack-partial": "^1.0.0",
+    "webpack-partial": "^1.1.0",
     "webpack-stream": "^3.1.0",
     "webpack-unassert-loader": "^1.0.0",
     "webrx": "^1.4.3",
