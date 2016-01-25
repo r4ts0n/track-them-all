@@ -1139,7 +1139,7 @@
     "web-term": "^4.3.0",
     "webpack": "^2.0.1-beta",
     "webpack-bundle-size-analyzer": "^1.2.0",
-    "webpack-closure-compiler": "^1.1.2",
+    "webpack-closure-compiler": "^2.0.0",
     "webpack-config": "^3.0.0",
     "webpack-config-plugin": "^0.3.1",
     "webpack-config-stream": "^4.0.0",
