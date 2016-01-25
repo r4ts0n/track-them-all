@@ -115,7 +115,7 @@
     "camerapicturebackground": "0.0.1",
     "caminte": "0.1.3",
     "canonical": "^2.7.1",
-    "cerebral": "^0.26.1",
+    "cerebral": "^0.33.6",
     "chai": "^3.4.1",
     "chai-immutable": "^1.5.3",
     "chakram": "^1.2.1",
