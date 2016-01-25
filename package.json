@@ -955,7 +955,7 @@
     "redux-immutablejs": "0.0.8",
     "redux-loader": "^0.4.2",
     "redux-localstorage": "^1.0.0-rc4",
-    "redux-logger": "^2.3.1",
+    "redux-logger": "^2.4.0",
     "redux-promise-middleware": "^2.3.1",
     "redux-react-router": "^1.0.0-beta3",
     "redux-responsive": "^0.1.3",
