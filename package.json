@@ -109,7 +109,7 @@
     "bunyan": "^1.5.1",
     "buster": "^0.7.18",
     "c3": "^0.4.11-rc4",
-    "cache-manager": "^1.2.2",
+    "cache-manager": "^1.3.0",
     "cacheman": "^2.0.5",
     "call-number": "0.0.2",
     "camerapicturebackground": "0.0.1",
