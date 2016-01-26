@@ -125,7 +125,7 @@
     "cheerio": "^0.19.0",
     "chokidar": "^1.4.1",
     "circus": "^4.2.0",
-    "clappr": "^0.2.28",
+    "clappr": "^0.2.33",
     "class-acts": "^1.0.3",
     "classeur": "^0.17.0",
     "classnames": "^2.2.1",
