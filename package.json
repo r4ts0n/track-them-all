@@ -402,7 +402,7 @@
     "htmlhint": "^0.9.12",
     "htmlparser2": "^3.9.0",
     "http-host-proxy": "^1.0.0",
-    "http-proxy": "^1.12.0",
+    "http-proxy": "^1.13.0",
     "hu": "^0.1.1",
     "humane-js": "^3.2.2",
     "husky": "^0.10.2",
