@@ -881,7 +881,7 @@
     "react-slide-deck": "^0.1.0",
     "react-slider": "^0.6.0",
     "react-socket": "^0.1.4",
-    "react-spark-scroll": "^2.0.1",
+    "react-spark-scroll": "^3.0.0",
     "react-spark-scroll-gsap": "^2.0.1",
     "react-star-rating": "^1.4.2",
     "react-static-container": "^1.0.0",
