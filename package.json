@@ -586,7 +586,7 @@
     "mmmagic": "^0.4.1",
     "mo-js": "^0.147.4",
     "mobifyjs": "^2.0.15",
-    "mocha": "^2.3.4",
+    "mocha": "^2.4.5",
     "mocha-lcov-reporter": "^1.0.0",
     "mocha-multi": "^0.7.2",
     "mocha-notifier-reporter": "^0.1.1",
