@@ -951,7 +951,7 @@
     "redux-falcor": "^3.0.0-beta3",
     "redux-form": "^4.0.3",
     "redux-form-generator": "0.0.23",
-    "redux-immutable": "^1.3.10",
+    "redux-immutable": "^3.0.3",
     "redux-immutablejs": "0.0.8",
     "redux-loader": "^0.4.2",
     "redux-localstorage": "^1.0.0-rc4",
