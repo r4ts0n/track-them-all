@@ -963,7 +963,7 @@
     "redux-router": "^1.0.0-beta5",
     "redux-router-immutable": "^1.0.0-beta5",
     "redux-rx": "^0.5.0",
-    "redux-search": "^0.2.0",
+    "redux-search": "^2.1.0",
     "redux-simple-router": "1.0.1",
     "redux-socket-cluster": "^0.3.1",
     "redux-socket.io": "0.0.2",
