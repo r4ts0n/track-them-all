@@ -259,7 +259,7 @@
     "enquire.js": "^2.1.1",
     "ent": "^2.2.0",
     "entities": "^1.1.1",
-    "enzyme": "^1.2.0",
+    "enzyme": "^1.5.0",
     "epiceditor": "^0.2.0",
     "eq.js": "^1.7.0",
     "escodegen": "^1.7.1",
