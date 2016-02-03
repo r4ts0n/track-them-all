@@ -132,7 +132,7 @@
     "cld": "^2.4.5",
     "clean-webpack-plugin": "^0.1.5",
     "cli-color": "^1.1.0",
-    "clipboard": "^1.5.5",
+    "clipboard": "^1.5.7",
     "clipboard-js": "^0.2.0",
     "clj-fuzzy": "^0.3.1",
     "clor": "^2.0.2",
