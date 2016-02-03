@@ -551,7 +551,7 @@
     "local-npm": "^1.4.9",
     "localforage-setitems": "^1.1.0",
     "locallyjs": "^0.3.2",
-    "lodash": "^3.10.1",
+    "lodash": "^4.2.1",
     "lory.js": "^2.0.0",
     "lru-cache": "^4.0.0",
     "lunr": "^0.6.0",
