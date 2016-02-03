@@ -1024,7 +1024,7 @@
     "should-http": "0.0.4",
     "should-sinon": "0.0.3",
     "shout": "^1.0.0-alpha4",
-    "shunter": "^3.2.0",
+    "shunter": "^3.3.1",
     "sigma": "^1.0.3",
     "signature_pad": "^1.5.2",
     "simditor": "^2.3.6",
