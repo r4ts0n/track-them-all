@@ -52,7 +52,7 @@
     "babel-loader": "^6.2.0",
     "babel-plugin-add-module-exports": "^0.1.2",
     "babel-plugin-closure-elimination": "0.0.2",
-    "babel-plugin-contracts": "^1.1.0",
+    "babel-plugin-contracts": "^1.1.1",
     "babel-plugin-css-modules-transform": "0.0.4",
     "babel-plugin-dev-expression": "^0.1.0",
     "babel-plugin-espower": "^2.0.0",
