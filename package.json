@@ -49,7 +49,7 @@
     "babel": "^6.3.13",
     "babel-core": "^6.3.21",
     "babel-eslint": "^5.0.0-beta6",
-    "babel-loader": "^6.2.0",
+    "babel-loader": "^6.2.2",
     "babel-plugin-add-module-exports": "^0.1.2",
     "babel-plugin-closure-elimination": "0.0.2",
     "babel-plugin-contracts": "^1.1.0",
