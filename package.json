@@ -1052,7 +1052,7 @@
     "split.js": "^1.0.6",
     "spm": "^3.9.0-beta3",
     "ssh2": "^0.4.12",
-    "standard": "^5.4.1",
+    "standard": "^6.0.2",
     "standard-format": "^2.1.0",
     "state-machine": "0.0.3",
     "stats-webpack-plugin": "^0.2.2",
