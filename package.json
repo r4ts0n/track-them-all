@@ -877,7 +877,7 @@
     "react-select": "^1.0.0-beta8",
     "react-shift": "^2.0.3",
     "react-simpletabs": "^0.7.0",
-    "react-slick": "^0.9.3",
+    "react-slick": "^0.10.0",
     "react-slide-deck": "^0.1.0",
     "react-slider": "^0.6.0",
     "react-socket": "^0.1.4",
