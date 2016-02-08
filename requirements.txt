@@ -92,7 +92,7 @@ hiredis==0.2.0
 hitchtest==0.9.6
 homu==0.2.0
 httpie==0.9.3
-invoke==0.12.1
+invoke==0.12.2
 ipdb==0.8.1
 ispy==0.1.2
 jieba==0.38
