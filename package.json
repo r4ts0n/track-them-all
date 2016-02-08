@@ -83,7 +83,7 @@
     "basket.js": "^0.5.2",
     "bcryptjs": "^2.3.0",
     "belle": "^2.0.3",
-    "better-npm-run": "0.0.5",
+    "better-npm-run": "0.0.7",
     "bitcoin": "^3.0.1",
     "bitcoinjs-lib": "^2.1.4",
     "blanket": "^1.2.1",
