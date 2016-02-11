@@ -6,7 +6,7 @@ Flask==0.10.1
 Keras==0.3.2
 Lektor==1.2.1
 Mercurial==3.7.1
-Nikola==7.7.4
+Nikola==7.7.5
 Pillow==3.1.1
 Rester==0.5.0
 SQLAlchemy==1.0.11
@@ -82,7 +82,7 @@ django-watson==1.2.0
 elpy==1.11.0
 envoy==0.0.3
 fabtools==0.19.0
-flake8==2.5.2
+flake8==2.5.4
 flask-ripozo==1.0.1
 flower==0.8.4
 furl==0.4.91
