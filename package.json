@@ -89,7 +89,7 @@
     "blanket": "^1.2.1",
     "bleno": "^0.3.3",
     "blessed": "^0.1.81",
-    "blocked": "^1.1.0",
+    "blocked": "^1.2.0",
     "bloody-strip-proptypes": "^1.0.0",
     "bookshelf": "^0.9.1",
     "bookshelf-modelbase": "^2.6.7",
