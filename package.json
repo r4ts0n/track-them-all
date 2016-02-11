@@ -349,7 +349,7 @@
     "git-task": "^0.1.9",
     "gitbook": "^2.6.6",
     "gitbook-cli": "^1.0.1",
-    "gl-react": "^2.0.4",
+    "gl-react": "^2.1.5",
     "gm": "^1.21.1",
     "gmaps": "^0.4.21",
     "google-caja": "0.0.2",
