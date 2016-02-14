@@ -101,7 +101,7 @@ jupyter==1.0.0
 keyring==8.4
 maildump==0.5.3
 matplotlib==1.5.1
-mitmproxy==0.15
+mitmproxy==0.16
 money==1.2.2
 mongoengine==0.10.6
 motor==0.5
