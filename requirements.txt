@@ -6,7 +6,7 @@ Flask==0.10.1
 Keras==0.3.2
 Lektor==1.2.1
 Mercurial==3.7.1
-Nikola==7.7.5
+Nikola==7.7.6
 Pillow==3.1.1
 Rester==0.5.0
 SQLAlchemy==1.0.12
