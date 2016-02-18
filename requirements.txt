@@ -143,7 +143,7 @@ rodeo==0.4.4
 salt==2015.8.7
 schedule==0.3.2
 scikit-image==0.11.3
-scikit-learn==0.17
+scikit-learn==0.17.1
 scipy==0.17.0
 seaborn==0.7.0
 sentry==8.1.2
