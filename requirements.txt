@@ -114,7 +114,7 @@ passpie==1.4.1
 pdbpp==0.8.3
 peewee==2.8.0
 pelican==3.6.3
-peru==0.3.2
+peru==0.3.3
 pgcli==0.20.1
 pinggraph==0.0.13
 pip==8.0.2
