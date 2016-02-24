@@ -32,7 +32,7 @@ deepdiff==0.6.1
 djangae==0.9.2
 django-admin2==0.6.1
 django-allauth==0.24.1
-django-bootstrap3==6.2.2
+django-bootstrap3==7.0.0
 django-braces==1.8.1
 django-bulk-update==1.1.10
 django-celery==3.1.17
