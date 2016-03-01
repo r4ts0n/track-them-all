@@ -55,7 +55,7 @@ django-material==0.6.0
 django-model-utils==2.4
 django-modeltranslation==0.11
 django-mongonaut==0.2.21
-django-mptt==0.8.2
+django-mptt==0.8.3
 django-oauth-toolkit==0.10.0
 django-oscar==1.1.1
 django-page-cms==1.9.0
