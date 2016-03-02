@@ -5,7 +5,7 @@ Eve==0.6.1
 Flask==0.10.1
 Keras==0.3.2
 Lektor==1.2.1
-Mercurial==3.7.1
+Mercurial==3.7.2
 Nikola==7.7.6
 Pillow==3.1.1
 Rester==0.5.0
@@ -89,7 +89,7 @@ furl==0.4.92
 graphene==0.7.3
 gunicorn==19.4.5
 hiredis==0.2.0
-hitchtest==0.9.7
+hitchtest==0.9.8
 homu==0.2.0
 httpie==0.9.3
 invoke==0.12.2
