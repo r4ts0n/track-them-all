@@ -132,7 +132,7 @@ pyfolio==0.4.0
 pyglet==1.2.4
 pylama==7.0.7
 pyquery==1.2.11
-pyresttest==1.6.0
+pyresttest==1.7.0
 pytest==2.9.0
 python-dateutil==2.5.0
 python-see==1.0.0
