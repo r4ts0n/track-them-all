@@ -104,7 +104,7 @@ matplotlib==1.5.1
 mitmproxy==0.16
 money==1.2.2
 mongoengine==0.10.6
-motor==0.6.1
+motor==0.6.2
 mps-youtube==0.2.6
 networkx==1.11
 numpy==1.10.4
