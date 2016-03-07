@@ -46,7 +46,7 @@ django-extensions==1.6.1
 django-floppyforms==1.6.1
 django-fluent-comments==1.2
 django-fluent-pages==0.9
-django-grappelli==2.7.3
+django-grappelli==2.8.1
 django-hosts==1.4
 django-hvad==1.5.0
 django-linguist==0.1.3
