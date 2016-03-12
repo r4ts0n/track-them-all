@@ -108,7 +108,7 @@ motor==0.6.2
 mps-youtube==0.2.6
 networkx==1.11
 numpy==1.10.4
-pandas==0.17.1
+pandas==0.18.0
 pandas-talib==0.0.1
 passpie==1.4.1
 pdbpp==0.8.3
