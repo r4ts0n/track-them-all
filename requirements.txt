@@ -117,7 +117,7 @@ pelican==3.6.3
 peru==0.4.0
 pgcli==0.20.1
 pinggraph==0.0.13
-pip==8.1.0
+pip==8.1.1
 pip-tools==1.6
 pipreqs==0.4.2
 piprot==0.9.6
