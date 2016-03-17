@@ -89,7 +89,7 @@ furl==0.4.92
 graphene==0.7.3
 gunicorn==19.4.5
 hiredis==0.2.0
-hitchtest==0.9.8
+hitchtest==0.9.9
 homu==0.2.0
 httpie==0.9.3
 invoke==0.12.2
