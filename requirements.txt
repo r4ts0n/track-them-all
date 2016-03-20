@@ -26,7 +26,7 @@ bumper==0.1.8
 cider==1.1.7
 ckan==2.5.1
 clint==0.5.1
-cookiecutter==1.3.0
+cookiecutter==1.4.0
 coverage==4.0.3
 deepdiff==1.0.1
 djangae==0.9.3
