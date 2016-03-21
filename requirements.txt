@@ -72,7 +72,7 @@ django-ripozo==1.1.0
 django-rosetta==0.7.10
 django-storages-redux==1.3.2
 django-suit==0.3a3
-django-tables2==1.1.2
+django-tables2==1.1.3
 django-taggit==0.18.0
 django-tagulous==0.11.1
 django-test-plus==1.0.12
