@@ -23,7 +23,7 @@ bottle==0.12.9
 bpython==0.15
 buildozer==0.31
 bumper==0.1.8
-cider==1.1.7
+cider==1.1.8
 ckan==2.5.1
 clint==0.5.1
 cookiecutter==1.4.0
