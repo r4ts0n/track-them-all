@@ -1,6 +1,6 @@
 Cactus==3.3.3
 ChatterBot==0.3.6
-Django==1.9.4
+Django==1.9.5
 Eve==0.6.3
 Flask==0.10.1
 Keras==0.3.3
