@@ -11,7 +11,7 @@ Pillow==3.2.0
 Rester==0.5.0
 SQLAlchemy==1.0.12
 Scrapy==1.0.5
-Sphinx==1.4
+Sphinx==1.4.1
 Tinkerer==1.5
 Weblate==2.5
 aldryn-faq==1.1.0
@@ -93,7 +93,7 @@ hitchtest==0.9.9
 homu==0.2.0
 httpie==0.9.3
 invoke==0.12.2
-ipdb==0.9.0
+ipdb==0.9.1
 ispy==0.1.2
 jieba==0.38
 jsonfield==1.0.3
