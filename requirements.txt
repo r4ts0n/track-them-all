@@ -52,7 +52,7 @@ django-hvad==1.5.0
 django-linguist==0.1.3
 django-manager-utils==0.9.1
 django-material==0.7.0
-django-model-utils==2.4
+django-model-utils==2.5
 django-modeltranslation==0.11
 django-mongonaut==0.2.21
 django-mptt==0.8.3
