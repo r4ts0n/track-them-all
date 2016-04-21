@@ -128,7 +128,7 @@ psycopg2==2.6.1
 ptpython==0.32
 pudb==2016.1
 purl==1.2
-pyfolio==0.4.0
+pyfolio==0.5.0
 pyglet==1.2.4
 pylama==7.0.9
 pyquery==1.2.13
