@@ -93,7 +93,7 @@ hitchtest==0.9.9
 homu==0.2.0
 httpie==0.9.3
 invoke==0.12.2
-ipdb==0.9.3
+ipdb==0.10.0
 ispy==0.1.2
 jieba==0.38
 jsonfield==1.0.3
