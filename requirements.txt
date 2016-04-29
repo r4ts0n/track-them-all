@@ -42,7 +42,7 @@ django-contact-form==1.2
 django-crispy-forms==1.6.0
 django-debug-toolbar==1.4
 django-environ==0.4.0
-django-extensions==1.6.1
+django-extensions==1.6.3
 django-floppyforms==1.6.2
 django-fluent-comments==1.2
 django-fluent-pages==0.9
