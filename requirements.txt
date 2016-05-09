@@ -21,7 +21,7 @@ arrow==0.7.0
 behave==1.2.5
 bottle==0.12.9
 bpython==0.15
-buildozer==0.31
+buildozer==0.32
 bumper==0.1.11
 cider==1.1.8
 ckan==2.5.2
