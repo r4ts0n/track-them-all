@@ -27,7 +27,7 @@ cider==1.1.8
 ckan==2.5.2
 clint==0.5.1
 cookiecutter==1.4.0
-coverage==4.0.3
+coverage==4.1
 deepdiff==1.1.0
 djangae==0.9.4
 django-admin2==0.6.1
