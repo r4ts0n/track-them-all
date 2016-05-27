@@ -159,7 +159,7 @@ unicodecsv==0.14.1
 virtualenvwrapper==4.7.1
 wagtail==1.4.5
 webcolors==1.5
-whitenoise==3.1
+whitenoise==3.2
 xonsh==0.3.0
 youtube-dl==2016.5.21.2
 zipline==1.0.0
