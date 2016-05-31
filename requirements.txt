@@ -33,7 +33,7 @@ djangae==0.9.4
 django-admin2==0.6.1
 django-allauth==0.25.2
 django-bootstrap3==7.0.1
-django-braces==1.8.1
+django-braces==1.9.0
 django-bulk-update==1.1.10
 django-celery==3.1.17
 django-cms==3.3.0
@@ -133,7 +133,7 @@ pyglet==1.2.4
 pylama==7.0.9
 pyquery==1.2.13
 pyresttest==1.7.1
-pytest==2.9.1
+pytest==2.9.2
 python-dateutil==2.5.3
 python-see==1.0.1
 python-social-auth==0.2.19
