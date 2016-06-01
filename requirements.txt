@@ -86,7 +86,7 @@ flake8==2.5.4
 flask-ripozo==1.0.4
 flower==0.9.1
 furl==0.4.95
-graphene==0.10.1
+graphene==0.10.2
 gunicorn==19.6.0
 hiredis==0.2.0
 hitchtest==0.9.10
