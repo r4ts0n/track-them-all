@@ -2,7 +2,7 @@ Cactus==3.3.3
 ChatterBot==0.4.2
 Django==1.9.7
 Eve==0.6.3
-Flask==0.11
+Flask==0.11.1
 Keras==1.0.4
 Lektor==2.3
 Mercurial==3.8.3
