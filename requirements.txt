@@ -11,7 +11,7 @@ Pillow==3.2.0
 Rester==0.5.0
 SQLAlchemy==1.0.13
 Scrapy==1.1.0
-Sphinx==1.4.3
+Sphinx==1.4.4
 Tinkerer==1.5
 Weblate==2.6
 aldryn-faq==1.2.0
