@@ -3,7 +3,7 @@ ChatterBot==0.4.3
 Django==1.9.7
 Eve==0.6.4
 Flask==0.11.1
-Keras==1.0.4
+Keras==1.0.5
 Lektor==2.3
 Mercurial==3.8.3
 Nikola==7.7.9
