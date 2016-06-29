@@ -85,7 +85,7 @@ fabtools==0.19.0
 flake8==2.6.2
 flask-ripozo==1.0.4
 flower==0.9.1
-furl==0.5
+furl==0.5.1
 graphene==0.10.2
 gunicorn==19.6.0
 hiredis==0.2.0
