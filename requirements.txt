@@ -161,5 +161,5 @@ wagtail==1.5.2
 webcolors==1.5
 whitenoise==3.2
 xonsh==0.4.3
-youtube-dl==2016.6.27
+youtube-dl==2016.7.1
 zipline==1.0.1
