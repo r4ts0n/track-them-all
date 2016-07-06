@@ -110,7 +110,7 @@ networkx==1.11
 numpy==1.11.1
 pandas==0.18.1
 pandas-talib==0.0.1
-passpie==1.4.3
+passpie==1.5.0
 pdbpp==0.8.3
 peewee==2.8.1
 pelican==3.6.3
