@@ -118,7 +118,7 @@ peru==1.0.0
 pgcli==1.1.0
 pinggraph==0.0.13
 pip==8.1.2
-pip-tools==1.6.5
+pip-tools==1.7.0
 pipreqs==0.4.3
 piprot==0.9.6
 plumbum==1.6.2
