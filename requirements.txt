@@ -10,7 +10,7 @@ Nikola==7.7.9
 Pillow==3.3.0
 Rester==0.5.0
 SQLAlchemy==1.0.14
-Scrapy==1.1.0
+Scrapy==1.1.1
 Sphinx==1.4.5
 Tinkerer==1.5
 Weblate==2.7
@@ -161,5 +161,5 @@ wagtail==1.5.2
 webcolors==1.5
 whitenoise==3.2
 xonsh==0.4.3
-youtube-dl==2016.7.11
+youtube-dl==2016.7.13
 zipline==1.0.1
