@@ -119,7 +119,7 @@ pgcli==1.1.0
 pinggraph==0.0.13
 pip==8.1.2
 pip-tools==1.7.0
-pipreqs==0.4.3
+pipreqs==0.4.4
 piprot==0.9.6
 plumbum==1.6.2
 pre-commit==0.8.2
