@@ -1,6 +1,6 @@
 Cactus==3.3.3
 ChatterBot==0.4.4
-Django==1.9.7
+Django==1.9.8
 Eve==0.6.4
 Flask==0.11.1
 Keras==1.0.6
@@ -157,7 +157,7 @@ toga==0.1.2
 tornado==4.4
 unicodecsv==0.14.1
 virtualenvwrapper==4.7.1
-wagtail==1.5.2
+wagtail==1.5.3
 webcolors==1.5
 whitenoise==3.2
 xonsh==0.4.3
