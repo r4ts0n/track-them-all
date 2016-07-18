@@ -123,7 +123,7 @@ pipreqs==0.4.4
 piprot==0.9.6
 plumbum==1.6.2
 pre-commit==0.8.2
-proselint==0.6.0
+proselint==0.6.1
 psycopg2==2.6.2
 ptpython==0.34
 pudb==2016.2
