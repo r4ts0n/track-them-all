@@ -45,7 +45,7 @@ django-environ==0.4.0
 django-extensions==1.6.7
 django-floppyforms==1.6.2
 django-fluent-comments==1.2.1
-django-fluent-pages==1.0
+django-fluent-pages==1.0.1
 django-grappelli==2.8.1
 django-hosts==2.0
 django-hvad==1.5.1
