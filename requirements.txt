@@ -45,7 +45,7 @@ django-environ==0.4.0
 django-extensions==1.6.7
 django-floppyforms==1.6.2
 django-fluent-comments==1.2.1
-django-fluent-pages==0.9
+django-fluent-pages==1.0
 django-grappelli==2.8.1
 django-hosts==2.0
 django-hvad==1.5.1
@@ -161,5 +161,5 @@ wagtail==1.5.3
 webcolors==1.5
 whitenoise==3.2
 xonsh==0.4.4
-youtube-dl==2016.8.6
+youtube-dl==2016.8.7
 zipline==1.0.1
