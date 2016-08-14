@@ -151,7 +151,7 @@ slacker==0.9.24
 sphinx-autobuild==0.6.0
 splinter==0.7.4
 sympy==1.0
-thefuck==3.10
+thefuck==3.11
 tmuxp==1.2.0
 toga==0.1.2
 tornado==4.4.1
