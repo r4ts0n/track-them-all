@@ -99,7 +99,7 @@ jieba==0.38
 jsonfield==1.0.3
 jupyter==1.0.0
 keyring==9.3.1
-maildump==0.5.3
+maildump==0.5.4
 matplotlib==1.5.1
 mitmproxy==0.17
 money==1.3.0
