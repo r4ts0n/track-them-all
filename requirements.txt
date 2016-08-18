@@ -7,10 +7,10 @@ Keras==1.0.7
 Lektor==2.3
 Mercurial==3.9
 Nikola==7.7.12
-Pillow==3.3.0
+Pillow==3.3.1
 Rester==0.5.0
 SQLAlchemy==1.0.14
-Scrapy==1.1.1
+Scrapy==1.1.2
 Sphinx==1.4.5
 Tinkerer==1.5
 Weblate==2.7
@@ -28,7 +28,7 @@ ckan==2.5.2
 clint==0.5.1
 cookiecutter==1.4.0
 coverage==4.2
-deepdiff==2.5.0
+deepdiff==2.5.1
 djangae==0.9.7
 django-admin2==0.6.1
 django-allauth==0.26.1
