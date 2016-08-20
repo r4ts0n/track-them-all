@@ -156,7 +156,7 @@ tmuxp==1.2.0
 toga==0.1.2
 tornado==4.4.1
 unicodecsv==0.14.1
-virtualenvwrapper==4.7.1
+virtualenvwrapper==4.7.2
 wagtail==1.6
 webcolors==1.5
 whitenoise==3.2.1
