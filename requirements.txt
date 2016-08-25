@@ -112,7 +112,7 @@ pandas==0.18.1
 pandas-talib==0.0.1
 passpie==1.5.4
 pdbpp==0.8.3
-peewee==2.8.2
+peewee==2.8.3
 pelican==3.6.3
 peru==1.0.1
 pgcli==1.1.0
