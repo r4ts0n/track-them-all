@@ -62,7 +62,7 @@ django-page-cms==1.9.1
 django-parler==1.6.5
 django-phonenumber-field==1.1.0
 django-pipeline==1.6.8
-django-post-office==2.0.7
+django-post-office==2.0.8
 django-project-portfolio==1.1
 django-registration==2.1.2
 django-rest-auth==0.8.1
