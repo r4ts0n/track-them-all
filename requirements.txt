@@ -44,7 +44,7 @@ django-debug-toolbar==1.5
 django-environ==0.4.0
 django-extensions==1.7.3
 django-floppyforms==1.7.0
-django-fluent-comments==1.2.1
+django-fluent-comments==1.2.2
 django-fluent-pages==1.0.1
 django-grappelli==2.8.1
 django-hosts==2.0
