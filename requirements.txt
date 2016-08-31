@@ -1,5 +1,5 @@
 Cactus==3.3.3
-ChatterBot==0.4.6
+ChatterBot==0.4.7
 Django==1.10
 Eve==0.6.4
 Flask==0.11.1
