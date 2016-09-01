@@ -5,7 +5,7 @@ Eve==0.6.4
 Flask==0.11.1
 Keras==1.0.8
 Lektor==2.3
-Mercurial==3.9
+Mercurial==3.9.1
 Nikola==7.8.0
 Pillow==3.3.1
 Rester==0.5.0
@@ -135,7 +135,7 @@ pyquery==1.2.13
 pyresttest==1.7.1
 pytest==3.0.1
 python-dateutil==2.5.3
-python-see==1.1.0
+python-see==1.1.1
 python-social-auth==0.2.21
 python-usernames==0.2.2
 ripozo==1.3.0
