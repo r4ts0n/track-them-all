@@ -1,6 +1,6 @@
 Cactus==3.3.3
 ChatterBot==0.4.7
-Django==1.10
+Django==1.10.1
 Eve==0.6.4
 Flask==0.11.1
 Keras==1.0.8
@@ -133,7 +133,7 @@ pyglet==1.2.4
 pylama==7.0.9
 pyquery==1.2.13
 pyresttest==1.7.1
-pytest==3.0.1
+pytest==3.0.2
 python-dateutil==2.5.3
 python-see==1.1.1
 python-social-auth==0.2.21
@@ -160,6 +160,6 @@ virtualenvwrapper==4.7.2
 wagtail==1.6.1
 webcolors==1.5
 whitenoise==3.2.1
-xonsh==0.4.5
+xonsh==0.4.6
 youtube-dl==2016.8.31
 zipline==1.0.1
