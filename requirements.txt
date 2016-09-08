@@ -162,4 +162,4 @@ webcolors==1.5
 whitenoise==3.2.1
 xonsh==0.4.6
 youtube-dl==2016.9.4.1
-zipline==1.0.1
+zipline==1.0.2
