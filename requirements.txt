@@ -120,7 +120,7 @@ pinggraph==0.0.13
 pip==8.1.2
 pip-tools==1.7.0
 pipreqs==0.4.4
-piprot==0.9.6
+piprot==0.9.7
 plumbum==1.6.2
 pre-commit==0.9.1
 proselint==0.7.0
@@ -135,7 +135,7 @@ pyquery==1.2.13
 pyresttest==1.7.1
 pytest==3.0.2
 python-dateutil==2.5.3
-python-see==1.1.1
+python-see==1.1.2
 python-social-auth==0.2.21
 python-usernames==0.2.2
 ripozo==1.3.0
@@ -159,7 +159,7 @@ unicodecsv==0.14.1
 virtualenvwrapper==4.7.2
 wagtail==1.6.2
 webcolors==1.5
-whitenoise==3.2.1
+whitenoise==3.2.2
 xonsh==0.4.6
 youtube-dl==2016.9.24
 zipline==1.0.2
