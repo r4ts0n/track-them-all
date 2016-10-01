@@ -154,7 +154,7 @@ sympy==1.0
 thefuck==3.11
 tmuxp==1.2.1
 toga==0.2.3
-tornado==4.4.1
+tornado==4.4.2
 unicodecsv==0.14.1
 virtualenvwrapper==4.7.2
 wagtail==1.6.3
