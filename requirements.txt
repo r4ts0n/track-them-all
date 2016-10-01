@@ -152,7 +152,7 @@ sphinx-autobuild==0.6.0
 splinter==0.7.4
 sympy==1.0
 thefuck==3.11
-tmuxp==1.2.1
+tmuxp==1.2.2
 toga==0.2.3
 tornado==4.4.2
 unicodecsv==0.14.1
