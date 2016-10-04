@@ -146,7 +146,7 @@ scikit-image==0.12.3
 scikit-learn==0.18
 scipy==0.18.1
 seaborn==0.7.1
-sentry==8.8.0
+sentry==8.9.0
 slacker==0.9.25
 sphinx-autobuild==0.6.0
 splinter==0.7.4
