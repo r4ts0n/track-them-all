@@ -7,7 +7,7 @@ Keras==1.1.0
 Lektor==2.3
 Mercurial==3.9.2
 Nikola==7.8.0
-Pillow==3.4.0
+Pillow==3.4.1
 Rester==0.5.0
 SQLAlchemy==1.0.15
 Scrapy==1.2.0
