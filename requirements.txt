@@ -107,7 +107,7 @@ mongoengine==0.10.6
 motor==0.6.2
 mps-youtube==0.2.7.1
 networkx==1.11
-numpy==1.11.1
+numpy==1.11.2
 pandas==0.19.0
 pandas-talib==0.0.1
 passpie==1.5.4
