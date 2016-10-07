@@ -9,7 +9,7 @@ Mercurial==3.9.2
 Nikola==7.8.0
 Pillow==3.4.1
 Rester==0.5.0
-SQLAlchemy==1.1.0
+SQLAlchemy==1.1.1
 Scrapy==1.2.0
 Sphinx==1.4.8
 Tinkerer==1.5
@@ -161,5 +161,5 @@ wagtail==1.6.3
 webcolors==1.5
 whitenoise==3.2.2
 xonsh==0.4.7
-youtube-dl==2016.10.2
+youtube-dl==2016.10.7
 zipline==1.0.2
