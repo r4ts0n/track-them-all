@@ -19,7 +19,7 @@ analyzer==0.1.1
 ansible==2.1.2.0
 arrow==0.8.0
 behave==1.2.5
-bottle==0.12.9
+bottle==0.12.10
 bpython==0.15
 buildozer==0.32
 bumper==0.1.11
