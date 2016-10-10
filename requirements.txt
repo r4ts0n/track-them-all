@@ -131,7 +131,7 @@ purl==1.3
 pyfolio==0.5.1
 pyglet==1.2.4
 pylama==7.1.0
-pyquery==1.2.13
+pyquery==1.2.14
 pyresttest==1.7.1
 pytest==3.0.3
 python-dateutil==2.5.3
