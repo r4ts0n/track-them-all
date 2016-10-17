@@ -51,7 +51,7 @@ django-hosts==2.0
 django-hvad==1.6.0
 django-linguist==0.1.3
 django-manager-utils==0.11.0
-django-material==0.8.0
+django-material==0.9.0
 django-model-utils==2.6
 django-modeltranslation==0.12
 django-mongonaut==0.2.21
