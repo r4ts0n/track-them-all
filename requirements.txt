@@ -9,7 +9,7 @@ Mercurial==3.9.2
 Nikola==7.8.1
 Pillow==3.4.1
 Rester==0.5.0
-SQLAlchemy==1.1.1
+SQLAlchemy==1.1.2
 Scrapy==1.2.0
 Sphinx==1.4.8
 Tinkerer==1.5
