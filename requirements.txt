@@ -98,7 +98,7 @@ ispy==0.1.2
 jieba==0.38
 jsonfield==1.0.3
 jupyter==1.0.0
-keyring==10.0.1
+keyring==10.0.2
 maildump==0.5.4
 matplotlib==1.5.3
 mitmproxy==0.18.1
