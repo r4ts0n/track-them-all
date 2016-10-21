@@ -10,7 +10,7 @@ Nikola==7.8.1
 Pillow==3.4.2
 Rester==0.5.0
 SQLAlchemy==1.1.2
-Scrapy==1.2.0
+Scrapy==1.2.1
 Sphinx==1.4.8
 Tinkerer==1.5
 Weblate==2.8
