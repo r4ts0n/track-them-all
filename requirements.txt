@@ -33,7 +33,7 @@ djangae==0.9.7
 django-admin2==0.6.1
 django-allauth==0.28.0
 django-bootstrap3==7.1.0
-django-braces==1.9.0
+django-braces==1.10.0
 django-bulk-update==1.1.10
 django-celery==3.1.17
 django-cms==3.4.1
@@ -161,5 +161,5 @@ wagtail==1.7
 webcolors==1.5
 whitenoise==3.2.2
 xonsh==0.4.7
-youtube-dl==2016.10.21.1
+youtube-dl==2016.10.25
 zipline==1.0.2
