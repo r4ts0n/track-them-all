@@ -16,7 +16,7 @@ Tinkerer==1.5
 Weblate==2.8
 aldryn-faq==1.2.2
 analyzer==0.1.1
-ansible==2.1.2.0
+ansible==2.2.0.0
 arrow==0.8.0
 behave==1.2.5
 bottle==0.12.10
