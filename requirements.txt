@@ -5,7 +5,7 @@ Eve==0.6.4
 Flask==0.11.1
 Keras==1.1.1
 Lektor==2.3
-Mercurial==3.9.2
+Mercurial==4.0
 Nikola==7.8.1
 Pillow==3.4.2
 Rester==0.5.0
@@ -65,7 +65,7 @@ django-pipeline==1.6.9
 django-post-office==2.0.8
 django-project-portfolio==1.1
 django-registration==2.1.2
-django-rest-auth==0.8.1
+django-rest-auth==0.8.2
 django-reversion==2.0.7
 django-reversion-compare==0.7.2
 django-ripozo==1.1.0
@@ -146,7 +146,7 @@ scikit-image==0.12.3
 scikit-learn==0.18
 scipy==0.18.1
 seaborn==0.7.1
-sentry==8.9.0
+sentry==8.10.0
 slacker==0.9.29
 sphinx-autobuild==0.6.0
 splinter==0.7.4
@@ -161,5 +161,5 @@ wagtail==1.7
 webcolors==1.5
 whitenoise==3.2.2
 xonsh==0.4.7
-youtube-dl==2016.10.31
+youtube-dl==2016.11.2
 zipline==1.0.2
