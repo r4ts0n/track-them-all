@@ -24,7 +24,7 @@ bpython==0.16
 buildozer==0.32
 bumper==0.1.11
 cider==1.1.9
-ckan==2.5.2
+ckan==2.6.0
 clint==0.5.1
 cookiecutter==1.4.0
 coverage==4.2
