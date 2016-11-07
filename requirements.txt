@@ -78,7 +78,7 @@ django-tagulous==0.11.1
 django-test-plus==1.0.16
 django-two-factor-auth==1.4.0
 django-viewflow==0.10.1
-django-watson==1.2.3
+django-watson==1.2.4
 elpy==1.13.0
 envoy==0.0.3
 fabtools==0.20.0
