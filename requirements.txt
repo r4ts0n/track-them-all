@@ -30,7 +30,7 @@ cookiecutter==1.4.0
 coverage==4.2
 deepdiff==2.5.1
 djangae==0.9.7
-django-admin2==0.6.1
+django-admin2==0.7.0
 django-allauth==0.28.0
 django-bootstrap3==7.1.0
 django-braces==1.10.0
